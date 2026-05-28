@@ -1,5 +1,3 @@
-import { Mangas } from "../data/mangas"
-
 export function kmp(pattern: string, text: string): number[] {
     const results: number[] = []
     const t = text.toLowerCase()
@@ -26,14 +24,4 @@ export function kmp(pattern: string, text: string): number[] {
     }
 
     return results  // array index dimana pattern ditemukan
-}
-
-export function searchManga(query: string): string[]{
-    let possibleMangas: string[] = []
-
-    for(const manga of Mangas){
-        kmp(query, manga.title).length > 0 && possibleMangas.push(manga.title) 
-    }
-
-    return possibleMangas
 }

@@ -1,7 +1,7 @@
 import type { Manga } from "../models/manga"
 import { Genre } from "../models/genre"
 
-export const Mangas: Manga[] = [
+export const mangas: Manga[] = [
     {
         title: 'Naruto',
         author: 'Masashi Kishimoto',
@@ -1331,18 +1331,6 @@ export const Mangas: Manga[] = [
             'fun', 'absurd-comedy', 'feel-good', 'parody',
             'school-life',
             'ongoing'
-        ]
-    },
-    {
-        title: 'Bocchi the Rock!',
-        author: 'Aki Hamaji',
-        genre: [Genre.SEINEN, Genre.SLICE_OF_LIFE, Genre.COMEDY, Genre.MUSIC, Genre.SCHOOL],
-        tags: [
-            'social-anxiety', 'loneliness', 'belonging', 'finding-purpose', 'friendship', 'coming-of-age',
-            'introvert-protagonist', 'lack-of-communication',
-            'heartwarming', 'feel-good', 'comedy', 'bittersweet',
-            'school-life', 'music', 'band',
-            'completed'
         ]
     },
     {

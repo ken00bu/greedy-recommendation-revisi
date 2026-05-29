@@ -1,19 +1,26 @@
 import type { Manga } from "../models/manga"
-const BASE_PREFERENCE_WEIGHT = 5;
+const BASE_PREFERENCE_WEIGHT = 3;
+const INITIAL_PREFERENCE_WEIGHT = 0;
 
 function buildPreference(manga: Manga): string[] {
-    return [
-        manga.author,
-        ...manga.genre,
-        ...manga.tags
-    ]
+     return [ manga.author, ...manga.genre, ...manga.tags ] 
 }
 
 // semakin besar weight otomatis akan dibuat semakin kecil angkanya, agar bisa bikin mekanisme semakin jauh expand preferencenya semakin kecil weight dari tag barunya
-function buildPreferenceWithWeight(preference: string[], weight: number): Record<string, number> {
-    return Object.fromEntries(
-        preference.map((item) => [item, 1 / (1 + weight)])
-    );
+function buildPreferenceWithWeight(manga: Manga, depth: number = 0): Record<string, number> {
+    const decay = 1 / (1 + depth);
+
+    return {
+        [manga.author]: 1 * decay,
+
+        ...Object.fromEntries(
+            manga.genre.map((genre) => [genre, 1.5 * decay])
+        ),
+
+        ...Object.fromEntries(
+            manga.tags.map((tag) => [tag, 2 * decay])
+        ),
+    };
 }
 
 // semakin tinggi nilainya, semakin akurat rekomendasinya
@@ -23,15 +30,18 @@ function getBestManga(mangaWithScoreList: (Manga & { score: number })[]){
     )
 }
 
-function mergePreference(preferenceWeight: Record<string, number>, preference: string[], index: number){
+// expand preference dengan weight yang jauh lebih rendah dari initial
+function mergePreference(preferenceWeight: Record<string, number>, manga: Manga, index: number){
     return {
-        ...buildPreferenceWithWeight(preference, BASE_PREFERENCE_WEIGHT + index),
+        ...buildPreferenceWithWeight(manga, BASE_PREFERENCE_WEIGHT + index),
         ...preferenceWeight
     }
 }
 
 export function greedyRecommendation(selectedManga: Manga, mangas: Manga[], limit: number){
-    let preferenceWeights = buildPreferenceWithWeight(buildPreference(selectedManga), BASE_PREFERENCE_WEIGHT)
+
+    // Weight untuk initial harus gamblang bobotnya dari expand agar tidak terlalu halu
+    let preferenceWeights = buildPreferenceWithWeight(selectedManga, INITIAL_PREFERENCE_WEIGHT)
     const recommendation: (Manga & { score: number })[] = []
     let i = 0
     while(i < limit){
@@ -39,9 +49,11 @@ export function greedyRecommendation(selectedManga: Manga, mangas: Manga[], limi
         const mangaWithScoreList: (Manga & { score: number })[] = []
         for(const manga of mangas){
             //guard jika manga adalah selectedManga atau manga sudah diambil maka skip
-            if(manga.title === selectedManga.title || recommendation.some(r => r.title === manga.title)) continue
+            if(manga.id === selectedManga.id || recommendation.some(r => r.id === manga.id)) continue
+
             // current tag + genre + author
             const preferences = buildPreference(manga)
+            
             // hitung score manga saat ini
             let score = 0
             for(const item of preferences){
@@ -54,7 +66,8 @@ export function greedyRecommendation(selectedManga: Manga, mangas: Manga[], limi
         }
 
         bestManga = getBestManga(mangaWithScoreList)
-        preferenceWeights = mergePreference(preferenceWeights, buildPreference(bestManga), i)
+        
+        preferenceWeights = mergePreference(preferenceWeights, bestManga, i)
         recommendation.push(bestManga)
         i++
     }

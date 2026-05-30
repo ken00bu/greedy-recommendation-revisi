@@ -1,0 +1,35 @@
+diff --git a/node_modules/inquirer-checkbox-plus-plus/dist/index.js b/node_modules/inquirer-checkbox-plus-plus/dist/index.js
+index 9f2ffce..4432859 100644
+--- a/node_modules/inquirer-checkbox-plus-plus/dist/index.js
++++ b/node_modules/inquirer-checkbox-plus-plus/dist/index.js
+@@ -2,9 +2,14 @@ import { createPrompt, ValidationError, makeTheme, useState, usePrefix, useEffec
+ export { Separator } from '@inquirer/core';
+ import { cursorHide } from '@inquirer/ansi';
+ import colors from 'picocolors';
+-import figures from '@inquirer/figures';
++import _figures from '@inquirer/figures';
+ import pkg from 'lodash';
+ 
++// Fix: tsx transpiles ESM imports to CJS require(), which returns the module
++// namespace object instead of the default export. Normalize so figures.radioOff
++// etc. resolve correctly regardless of how the module is loaded.
++const figures = _figures.default || _figures;
++
+ /**
+  * Checkbox Plus Prompt for @inquirer/prompts
+  * Production-ready implementation with improved error handling and performance
+@@ -21,10 +26,10 @@ const DEFAULT_PAGE_SIZE = 7;
+ // Theme configuration
+ const checkboxPlusTheme = {
+   icon: {
+-    checked: colors.green(figures.radioOn),
+-    unchecked: figures.radioOff,
+-    disabled: colors.dim(figures.radioOff),
+-    cursor: figures.pointer,
++    checked: colors.green(figures.radioOn ?? '◉'),
++    unchecked: figures.radioOff ?? '◯',
++    disabled: colors.dim(figures.radioOff ?? '◯'),
++    cursor: figures.pointer ?? '❯',
+   },
+   style: {
+     disabledChoice: (text) => colors.dim(text),

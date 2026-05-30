@@ -33,3 +33,39 @@ index 9f2ffce..4432859 100644
    },
    style: {
      disabledChoice: (text) => colors.dim(text),
+
+diff --git a/node_modules/inquirer-checkbox-plus-plus/dist/index.cjs b/node_modules/inquirer-checkbox-plus-plus/dist/index.cjs
+index bba0f18..7a7c64a 100644
+--- a/node_modules/inquirer-checkbox-plus-plus/dist/index.cjs
++++ b/node_modules/inquirer-checkbox-plus-plus/dist/index.cjs
+@@ -5,9 +5,15 @@ Object.defineProperty(exports, '__esModule', { value: true });
+ var core = require('@inquirer/core');
+ var ansi = require('@inquirer/ansi');
+ var colors = require('picocolors');
+-var figures = require('@inquirer/figures');
++var _figures = require('@inquirer/figures');
+ var pkg = require('lodash');
+ 
++// Fix: CommonJS require() of an ESM-only module returns a namespace object with
++// the default export nested under `.default`. Normalize so figures.radioOff etc.
++// resolve correctly regardless of how the module is loaded.
++const figures = _figures.default || _figures;
++
+ /**
+  * Checkbox Plus Prompt for @inquirer/prompts
+  * Production-ready implementation with improved error handling and performance
+@@ -26,10 +32,10 @@ const DEFAULT_PAGE_SIZE = 7;
+ // Theme configuration
+ const checkboxPlusTheme = {
+   icon: {
+-    checked: colors.green(figures.radioOn),
+-    unchecked: figures.radioOff,
+-    disabled: colors.dim(figures.radioOff),
+-    cursor: figures.pointer,
++    checked: colors.green(figures.radioOn ?? '◉'),
++    unchecked: figures.radioOff ?? '◯',
++    disabled: colors.dim(figures.radioOff ?? '◯'),
++    cursor: figures.pointer ?? '❯',
+   },
+   style: {
+     disabledChoice: (text) => colors.dim(text),

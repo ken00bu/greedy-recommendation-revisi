@@ -1,9 +1,9 @@
-import type { Manga } from "../../models/manga";
+import type { Manga } from "../models/manga";
 import { input } from "@inquirer/prompts";
 import chalk from "chalk";
 import { writeFileSync } from "fs";
-import { Genre } from "../../models/genre";
-import { kmp } from "../string-matching";
+import { Genre } from "../models/genre";
+import { kmp } from "../algorithms/string-matching";
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import checkboxPlusPrompt from "inquirer-checkbox-plus-plus";

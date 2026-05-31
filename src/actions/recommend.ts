@@ -1,9 +1,9 @@
 import chalk from 'chalk';
-import { searchMangaTitleCandidates, binarySearchMangaByTitle } from '../searching';
+import { binarySearchMangaByTitle, searchMangaTitleCandidates } from '../algorithms/searching';
 import { input, select } from "@inquirer/prompts";
-import { greedyRecommendation } from '../greedy-recommendation';
-import type { Manga } from '../../models/manga';
-import type { Genre } from '../../models/genre';
+import { greedyRecommendation } from '../algorithms/greedy-recommendation';
+import type { Manga } from '../models/manga';
+import type { Genre } from '../models/genre';
 
 export async function recommend(mangas: Manga[]){
     const query = await input({ message: 'Masukan judul manga: ' })

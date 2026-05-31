@@ -2,9 +2,9 @@ import chalk from 'chalk';
 import { readFileSync } from 'node:fs';
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
-import { recommend } from './algorithms/actions/recommend';
-import { add } from './algorithms/actions/add';
-import { del } from './algorithms/actions/delete';
+import { recommend } from './actions/recommend';
+import { add } from './actions/add';
+import { del } from './actions/delete';
 import { input, select } from "@inquirer/prompts";
 import boxen from 'boxen';
 

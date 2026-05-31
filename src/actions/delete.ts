@@ -1,7 +1,7 @@
-import type { Manga } from "../../models/manga"
+import type { Manga } from "../models/manga";
 import { input, select } from "@inquirer/prompts";
 import chalk from "chalk";
-import { searchMangaTitleCandidates } from "../searching";
+import { searchMangaTitleCandidates } from "../algorithms/searching";
 import { writeFileSync } from "fs"
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'

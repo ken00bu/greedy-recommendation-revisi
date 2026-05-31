@@ -3,6 +3,7 @@ import { searchMangaTitleCandidates, binarySearchMangaByTitle } from '../searchi
 import { input, select } from "@inquirer/prompts";
 import { greedyRecommendation } from '../greedy-recommendation';
 import type { Manga } from '../../models/manga';
+import type { Genre } from '../../models/genre';
 
 export async function recommend(mangas: Manga[]){
     const query = await input({ message: 'Masukan judul manga: ' })
@@ -37,5 +38,21 @@ export async function recommend(mangas: Manga[]){
             chalk.bold(`  ${chalk.dim('#' + (index + 1))} ${manga.title}`) +
             chalk.dim(` — skor: ${manga.score.toFixed(2)} `)
         )
+
+        const matchedGenre = manga.matched.filter(m => manga.genre.includes(m as Genre))
+        const matchedTags = manga.matched.filter(m => manga.tags.includes(m))
+        const authorMatch = manga.matched.includes(manga.author)
+
+        const parts: string[] = []
+        if(authorMatch) parts.push(chalk.cyan(manga.author))
+        if(matchedGenre.length) parts.push(matchedGenre.map(g => chalk.green(g)).join(', '))
+        if(matchedTags.length) parts.push(
+            matchedTags
+                .slice(0, 4)
+                .map(t => chalk.yellow(t))
+                .join(', ') + (matchedTags.length > 4 ? chalk.dim(`... +${matchedTags.length - 4}`) : '')
+        )
+
+        console.log('     ' + parts.join(' '))
     })
 }

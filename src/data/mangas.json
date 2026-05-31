@@ -1,500 +1,5 @@
 [
     {
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "author": "Rifujin na Magonote",
-        "genre": [
-            "seinen",
-            "adventure",
-            "drama",
-            "fantasy",
-            "isekai",
-            "reincarnation"
-        ],
-        "tags": [
-            "redemption",
-            "self-discovery",
-            "coming-of-age",
-            "found-family",
-            "romance",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "world-building",
-            "trapped-in-another-world",
-            "magic",
-            "light-novel-adaptation",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "My Hero Academia",
-        "author": "Kohei Horikoshi",
-        "genre": [
-            "shounen",
-            "action",
-            "school",
-            "comedy",
-            "drama"
-        ],
-        "tags": [
-            "coming-of-age",
-            "found-family",
-            "rivalry",
-            "hero-vs-villain",
-            "sacrifice",
-            "tragedy",
-            "war",
-            "moral-ambiguity",
-            "underdog-protagonist",
-            "never-give-up",
-            "hopeful",
-            "emotional",
-            "dark",
-            "brutal",
-            "bittersweet",
-            "power-system",
-            "school-life",
-            "superhero",
-            "completed"
-        ]
-    },
-    {
-        "title": "Barakamon",
-        "author": "Satsuki Yoshino",
-        "genre": [
-            "seinen",
-            "comedy",
-            "slice of life",
-            "drama"
-        ],
-        "tags": [
-            "self-discovery",
-            "finding-purpose",
-            "healing",
-            "community",
-            "found-family",
-            "adult-protagonist",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "comedy",
-            "rural",
-            "nature-connection",
-            "art",
-            "completed"
-        ]
-    },
-    {
-        "title": "Yuru Camp",
-        "author": "Afro",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy"
-        ],
-        "tags": [
-            "friendship",
-            "nature-connection",
-            "self-discovery",
-            "introvert-protagonist",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "meditative",
-            "outdoor",
-            "daily-life",
-            "educational"
-        ]
-    },
-    {
-        "title": "World Trigger",
-        "author": "Daisuke Ashihara",
-        "genre": [
-            "shounen",
-            "action",
-            "sci fi",
-            "military"
-        ],
-        "tags": [
-            "teamwork",
-            "strategy",
-            "coming-of-age",
-            "rivalry",
-            "found-family",
-            "underdog-protagonist",
-            "action-heavy",
-            "world-building",
-            "power-system",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "A Bride's Story",
-        "author": "Kaoru Mori",
-        "genre": [
-            "seinen",
-            "historical",
-            "romance",
-            "drama"
-        ],
-        "tags": [
-            "love-story",
-            "community",
-            "family-bond",
-            "belonging",
-            "survival",
-            "ensemble-cast",
-            "beautiful-artwork",
-            "bittersweet",
-            "historical-fiction",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Oshi no Ko",
-        "author": "Aka Akasaka",
-        "genre": [
-            "seinen",
-            "drama",
-            "mystery",
-            "supernatural",
-            "idol"
-        ],
-        "tags": [
-            "revenge",
-            "identity",
-            "grief",
-            "trauma",
-            "moral-ambiguity",
-            "reincarnation",
-            "morally-grey-protagonist",
-            "suffering-protagonist",
-            "dark",
-            "tense",
-            "emotional",
-            "unexpected",
-            "psychological",
-            "mystery",
-            "entertainment-industry",
-            "completed"
-        ]
-    },
-    {
-        "title": "Naruto",
-        "author": "Masashi Kishimoto",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "fantasy",
-            "martial arts"
-        ],
-        "tags": [
-            "coming-of-age",
-            "friendship",
-            "rivalry",
-            "redemption",
-            "underdog-protagonist",
-            "never-give-up",
-            "hopeful",
-            "emotional",
-            "bittersweet",
-            "power-system",
-            "ninja",
-            "political-intrigue",
-            "long-running",
-            "completed"
-        ]
-    },
-    {
-        "title": "The Way of the Househusband",
-        "author": "Kousuke Oono",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy"
-        ],
-        "tags": [
-            "found-family",
-            "redemption",
-            "adult-protagonist",
-            "absurd-comedy",
-            "daily-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Black Clover",
-        "author": "Yuki Tabata",
-        "genre": [
-            "shounen",
-            "action",
-            "fantasy",
-            "magic",
-            "school"
-        ],
-        "tags": [
-            "rivalry",
-            "friendship",
-            "coming-of-age",
-            "underdog-protagonist",
-            "never-give-up",
-            "hopeful",
-            "action-heavy",
-            "magic",
-            "power-system"
-        ]
-    },
-    {
-        "title": "Planetes",
-        "author": "Makoto Yukimura",
-        "genre": [
-            "seinen",
-            "sci fi",
-            "drama",
-            "slice of life"
-        ],
-        "tags": [
-            "finding-purpose",
-            "adult-life",
-            "self-discovery",
-            "love-story",
-            "sacrifice",
-            "adult-protagonist",
-            "emotional",
-            "realistic",
-            "bittersweet",
-            "philosophical",
-            "world-building",
-            "completed"
-        ]
-    },
-    {
-        "title": "Monster",
-        "author": "Naoki Urasawa",
-        "genre": [
-            "seinen",
-            "mystery",
-            "thriller",
-            "psychological",
-            "drama"
-        ],
-        "tags": [
-            "moral-ambiguity",
-            "redemption",
-            "cat-and-mouse",
-            "finding-purpose",
-            "identity",
-            "morally-grey-protagonist",
-            "genius-protagonist",
-            "dark",
-            "tense",
-            "psychological",
-            "realistic",
-            "mystery",
-            "completed"
-        ]
-    },
-    {
-        "title": "Gundam: The Origin",
-        "author": "Yoshikazu Yasuhiko",
-        "genre": [
-            "seinen",
-            "action",
-            "mecha",
-            "military",
-            "sci fi",
-            "drama"
-        ],
-        "tags": [
-            "war",
-            "anti-war",
-            "cycle-of-violence",
-            "moral-ambiguity",
-            "sacrifice",
-            "morally-grey-protagonist",
-            "dark",
-            "action-heavy",
-            "beautiful-artwork",
-            "political-intrigue",
-            "world-building",
-            "completed"
-        ]
-    },
-    {
-        "title": "One Piece",
-        "author": "Eiichiro Oda",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "comedy",
-            "fantasy"
-        ],
-        "tags": [
-            "coming-of-age",
-            "friendship",
-            "found-family",
-            "freedom",
-            "underdog-protagonist",
-            "never-give-up",
-            "hopeful",
-            "emotional",
-            "world-building",
-            "political-intrigue",
-            "ensemble-cast",
-            "long-running"
-        ]
-    },
-    {
-        "title": "Sailor Moon",
-        "author": "Naoko Takeuchi",
-        "genre": [
-            "shoujo",
-            "action",
-            "romance",
-            "fantasy",
-            "magic"
-        ],
-        "tags": [
-            "friendship",
-            "found-family",
-            "love-story",
-            "sacrifice",
-            "reincarnation",
-            "ensemble-cast",
-            "hopeful",
-            "iconic",
-            "feel-good",
-            "magic",
-            "magical-girl",
-            "completed"
-        ]
-    },
-    {
-        "title": "Tokyo Ghoul",
-        "author": "Sui Ishida",
-        "genre": [
-            "seinen",
-            "action",
-            "horror",
-            "psychological",
-            "drama",
-            "dark fantasy"
-        ],
-        "tags": [
-            "identity-crisis",
-            "discrimination",
-            "tragedy",
-            "moral-ambiguity",
-            "anti-hero",
-            "morally-grey-protagonist",
-            "suffering-protagonist",
-            "dark",
-            "brutal",
-            "psychological",
-            "emotional",
-            "body-horror",
-            "completed"
-        ]
-    },
-    {
-        "title": "Kaguya-sama: Love is War",
-        "author": "Aka Akasaka",
-        "genre": [
-            "shounen",
-            "comedy",
-            "romance",
-            "school",
-            "psychological"
-        ],
-        "tags": [
-            "rivalry",
-            "slow-burn-romance",
-            "pride",
-            "coming-of-age",
-            "genius-protagonist",
-            "feel-good",
-            "comedy",
-            "mind-game",
-            "school-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Hidamari Sketch",
-        "author": "Ume Aoki",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy",
-            "school"
-        ],
-        "tags": [
-            "friendship",
-            "finding-purpose",
-            "coming-of-age",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "comedy",
-            "school-life",
-            "art",
-            "daily-life"
-        ]
-    },
-    {
-        "title": "My Dress-Up Darling",
-        "author": "Shinichi Fukuda",
-        "genre": [
-            "seinen",
-            "romance",
-            "comedy",
-            "school",
-            "otaku"
-        ],
-        "tags": [
-            "slow-burn-romance",
-            "finding-purpose",
-            "self-discovery",
-            "belonging",
-            "friendship",
-            "introvert-protagonist",
-            "feel-good",
-            "wholesome",
-            "heartwarming",
-            "comedy",
-            "school-life",
-            "otaku-culture",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Food Wars!: Shokugeki no Soma",
-        "author": "Yuto Tsukuda",
-        "genre": [
-            "shounen",
-            "cooking",
-            "school",
-            "comedy",
-            "drama",
-            "gourmet"
-        ],
-        "tags": [
-            "rivalry",
-            "coming-of-age",
-            "finding-purpose",
-            "never-give-up",
-            "underdog-protagonist",
-            "feel-good",
-            "action-heavy",
-            "school-life",
-            "food",
-            "completed"
-        ]
-    },
-    {
         "title": "20th Century Boys",
         "author": "Naoki Urasawa",
         "genre": [
@@ -520,30 +25,120 @@
         ]
     },
     {
-        "title": "Bocchi the Rock!",
-        "author": "Aki Hamaji",
+        "title": "A Bride's Story",
+        "author": "Kaoru Mori",
+        "genre": [
+            "seinen",
+            "historical",
+            "romance",
+            "drama"
+        ],
+        "tags": [
+            "love-story",
+            "community",
+            "family-bond",
+            "belonging",
+            "survival",
+            "ensemble-cast",
+            "beautiful-artwork",
+            "bittersweet",
+            "historical-fiction",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "A Man and His Cat",
+        "author": "Umi Sakurai",
+        "genre": [
+            "josei",
+            "slice of life",
+            "comedy"
+        ],
+        "tags": [
+            "healing",
+            "loneliness",
+            "belonging",
+            "grief",
+            "adult-protagonist",
+            "lone-wanderer-protagonist",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "bittersweet",
+            "daily-life"
+        ]
+    },
+    {
+        "title": "A Silent Voice",
+        "author": "Yoshitoki Oima",
+        "genre": [
+            "shounen",
+            "drama",
+            "romance",
+            "slice of life"
+        ],
+        "tags": [
+            "redemption",
+            "guilt",
+            "forgiveness",
+            "depression",
+            "loneliness",
+            "disability",
+            "belonging",
+            "trauma",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "tear-jerker",
+            "psychological",
+            "coming-of-age",
+            "completed"
+        ]
+    },
+    {
+        "title": "Akagi",
+        "author": "Nobuyuki Fukumoto",
+        "genre": [
+            "seinen",
+            "psychological",
+            "thriller",
+            "game"
+        ],
+        "tags": [
+            "survival",
+            "moral-ambiguity",
+            "genius-protagonist",
+            "cool-protagonist",
+            "dark",
+            "tense",
+            "psychological",
+            "mind-game",
+            "gambling",
+            "completed"
+        ]
+    },
+    {
+        "title": "Aria",
+        "author": "Kozue Amano",
         "genre": [
             "seinen",
             "slice of life",
-            "comedy",
-            "music",
-            "school"
+            "sci fi",
+            "fantasy"
         ],
         "tags": [
-            "social-anxiety",
-            "loneliness",
-            "belonging",
             "finding-purpose",
-            "friendship",
-            "coming-of-age",
-            "introvert-protagonist",
-            "heartwarming",
-            "feel-good",
-            "comedy",
-            "bittersweet",
-            "school-life",
-            "music",
-            "band",
+            "healing",
+            "self-discovery",
+            "nature-connection",
+            "belonging",
+            "lone-wanderer-protagonist",
+            "meditative",
+            "iyashikei",
+            "utopian",
+            "atmospheric",
+            "beautiful",
+            "world-building",
             "completed"
         ]
     },
@@ -577,811 +172,59 @@
         ]
     },
     {
-        "title": "Given",
-        "author": "Natsuki Kizu",
+        "title": "awdaw",
+        "author": "awdwa",
         "genre": [
-            "josei",
-            "romance",
-            "drama",
-            "music",
-            "boys love"
+            "shounen"
         ],
         "tags": [
-            "grief",
-            "healing",
-            "first-love",
-            "belonging",
-            "finding-purpose",
-            "introvert-protagonist",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "music",
-            "band",
-            "ongoing"
+            "wdw"
         ]
     },
     {
-        "title": "Thermae Romae",
-        "author": "Mari Yamazaki",
-        "genre": [
-            "josei",
-            "comedy",
-            "historical",
-            "time travel"
-        ],
-        "tags": [
-            "finding-purpose",
-            "self-discovery",
-            "adult-protagonist",
-            "absurd-comedy",
-            "educational",
-            "historical-fiction",
-            "time-travel",
-            "completed"
-        ]
-    },
-    {
-        "title": "Blame!",
-        "author": "Tsutomu Nihei",
-        "genre": [
-            "seinen",
-            "sci fi",
-            "action",
-            "horror",
-            "post apocalyptic",
-            "cyberpunk"
-        ],
-        "tags": [
-            "loneliness",
-            "survival",
-            "identity",
-            "lone-wanderer-protagonist",
-            "dark",
-            "atmospheric",
-            "brutal",
-            "world-building",
-            "dystopia",
-            "completed"
-        ]
-    },
-    {
-        "title": "Fuuka",
-        "author": "Kouji Seo",
-        "genre": [
-            "shounen",
-            "romance",
-            "drama",
-            "music",
-            "school"
-        ],
-        "tags": [
-            "romance",
-            "grief",
-            "finding-purpose",
-            "friendship",
-            "loss",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "school-life",
-            "music",
-            "band",
-            "completed"
-        ]
-    },
-    {
-        "title": "Fullmetal Alchemist",
-        "author": "Hiromu Arakawa",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "fantasy",
-            "drama"
-        ],
-        "tags": [
-            "brotherhood",
-            "sacrifice",
-            "war",
-            "redemption",
-            "family-bond",
-            "moral-ambiguity",
-            "found-family",
-            "never-give-up",
-            "morally-grey-protagonist",
-            "emotional",
-            "hopeful",
-            "action-heavy",
-            "philosophical",
-            "world-building",
-            "power-system",
-            "completed"
-        ]
-    },
-    {
-        "title": "Code Geass: Lelouch of the Rebellion",
-        "author": "Majiko!",
-        "genre": [
-            "shounen",
-            "action",
-            "mecha",
-            "psychological",
-            "military",
-            "drama"
-        ],
-        "tags": [
-            "sacrifice",
-            "revenge",
-            "redemption",
-            "betrayal",
-            "moral-ambiguity",
-            "political-intrigue",
-            "genius-protagonist",
-            "morally-grey-protagonist",
-            "villain-protagonist",
-            "dark",
-            "tense",
-            "emotional",
-            "action-heavy",
-            "mind-game",
-            "strategy",
-            "completed"
-        ]
-    },
-    {
-        "title": "Dinosaur Sanctuary",
-        "author": "Itaru Kinoshita",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "drama"
-        ],
-        "tags": [
-            "finding-purpose",
-            "community",
-            "adult-life",
-            "adult-protagonist",
-            "heartwarming",
-            "feel-good",
-            "educational",
-            "workplace",
-            "daily-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "To Your Eternity",
-        "author": "Yoshitoki Oima",
-        "genre": [
-            "shounen",
-            "adventure",
-            "drama",
-            "supernatural",
-            "fantasy"
-        ],
-        "tags": [
-            "grief",
-            "loss",
-            "mortality",
-            "belonging",
-            "healing",
-            "found-family",
-            "sacrifice",
-            "coming-of-age",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "tear-jerker",
-            "episodic",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Nichijou",
-        "author": "Keiichi Arawi",
-        "genre": [
-            "seinen",
-            "comedy",
-            "slice of life",
-            "school"
-        ],
-        "tags": [
-            "friendship",
-            "school-life",
-            "ensemble-cast",
-            "absurd-comedy",
-            "heartwarming",
-            "feel-good",
-            "daily-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Wotakoi: Love is Hard for Otaku",
-        "author": "Fujita",
-        "genre": [
-            "josei",
-            "romance",
-            "comedy",
-            "slice of life"
-        ],
-        "tags": [
-            "found-family",
-            "adult-life",
-            "slow-burn-romance",
-            "belonging",
-            "friendship",
-            "introvert-protagonist",
-            "feel-good",
-            "wholesome",
-            "comedy",
-            "heartwarming",
-            "otaku-culture",
-            "workplace",
-            "completed"
-        ]
-    },
-    {
-        "title": "Skip and Loafer",
-        "author": "Misaki Takamatsu",
-        "genre": [
-            "josei",
-            "slice of life",
-            "romance",
-            "comedy",
-            "school"
-        ],
-        "tags": [
-            "coming-of-age",
-            "friendship",
-            "slow-burn-romance",
-            "self-discovery",
-            "belonging",
-            "underdog-protagonist",
-            "feel-good",
-            "wholesome",
-            "heartwarming",
-            "comedy",
-            "school-life",
-            "daily-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Goodnight Punpun",
-        "author": "Inio Asano",
-        "genre": [
-            "seinen",
-            "drama",
-            "psychological",
-            "slice of life"
-        ],
-        "tags": [
-            "depression",
-            "trauma",
-            "loneliness",
-            "identity-crisis",
-            "family-dysfunction",
-            "guilt",
-            "loss",
-            "suffering-protagonist",
-            "dark",
-            "brutal",
-            "psychological",
-            "realistic",
-            "surreal",
-            "coming-of-age",
-            "completed"
-        ]
-    },
-    {
-        "title": "My Neighbor Seki",
-        "author": "Takuma Morishige",
-        "genre": [
-            "shounen",
-            "comedy",
-            "slice of life",
-            "school"
-        ],
-        "tags": [
-            "friendship",
-            "ensemble-cast",
-            "absurd-comedy",
-            "school-life",
-            "daily-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Aria",
-        "author": "Kozue Amano",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "sci fi",
-            "fantasy"
-        ],
-        "tags": [
-            "finding-purpose",
-            "healing",
-            "self-discovery",
-            "nature-connection",
-            "belonging",
-            "lone-wanderer-protagonist",
-            "meditative",
-            "iyashikei",
-            "utopian",
-            "atmospheric",
-            "beautiful",
-            "world-building",
-            "completed"
-        ]
-    },
-    {
-        "title": "The Eminence in Shadow",
-        "author": "Daisuke Aizawa",
-        "genre": [
-            "seinen",
-            "action",
-            "comedy",
-            "fantasy",
-            "isekai"
-        ],
-        "tags": [
-            "friendship",
-            "rivalry",
-            "overpowered-protagonist",
-            "cool-protagonist",
-            "absurd-comedy",
-            "parody",
-            "self-aware",
-            "trapped-in-another-world",
-            "light-novel-adaptation",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Yotsuba&!",
+        "title": "Azumanga Daioh",
         "author": "Kiyohiko Azuma",
         "genre": [
-            "seinen",
-            "comedy",
-            "slice of life"
-        ],
-        "tags": [
-            "childhood-wonder",
-            "family-bond",
-            "child-protagonist",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "no-conflict",
-            "daily-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "That Time I Got Reincarnated as a Slime",
-        "author": "Taiki Kawakami",
-        "genre": [
             "shounen",
-            "action",
-            "adventure",
             "comedy",
-            "fantasy",
-            "isekai"
-        ],
-        "tags": [
-            "found-family",
-            "friendship",
-            "community",
-            "political-intrigue",
-            "overpowered-protagonist",
-            "feel-good",
-            "hopeful",
-            "world-building",
-            "trapped-in-another-world",
-            "nation-building",
-            "light-novel-adaptation",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Genshiken",
-        "author": "Shimoku Kio",
-        "genre": [
-            "seinen",
             "slice of life",
-            "comedy"
+            "school"
         ],
         "tags": [
-            "belonging",
-            "finding-purpose",
-            "adult-life",
             "friendship",
-            "identity",
-            "introvert-protagonist",
+            "school-life",
             "ensemble-cast",
-            "feel-good",
-            "comedy",
-            "realistic",
-            "school-life",
-            "otaku-culture",
-            "completed"
-        ]
-    },
-    {
-        "title": "Yu Yu Hakusho",
-        "author": "Yoshihiro Togashi",
-        "genre": [
-            "shounen",
-            "action",
-            "supernatural",
-            "adventure"
-        ],
-        "tags": [
-            "friendship",
-            "found-family",
-            "rivalry",
-            "redemption",
-            "coming-of-age",
-            "anti-hero",
-            "cool-protagonist",
-            "action-heavy",
-            "hopeful",
-            "power-system",
-            "tournament",
-            "completed"
-        ]
-    },
-    {
-        "title": "Natsume's Book of Friends",
-        "author": "Yuki Midorikawa",
-        "genre": [
-            "shoujo",
-            "slice of life",
-            "supernatural",
-            "drama",
-            "fantasy"
-        ],
-        "tags": [
-            "loneliness",
-            "belonging",
-            "healing",
-            "found-family",
-            "acceptance",
-            "grief",
-            "introvert-protagonist",
-            "suffering-protagonist",
+            "absurd-comedy",
             "heartwarming",
-            "emotional",
-            "bittersweet",
-            "iyashikei",
-            "atmospheric",
-            "meditative",
-            "japanese-folklore",
-            "episodic",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Wakako-zake",
-        "author": "Chie Shinohara",
-        "genre": [
-            "josei",
-            "slice of life",
-            "gourmet",
-            "work life"
-        ],
-        "tags": [
-            "loneliness",
-            "self-discovery",
-            "adult-life",
-            "adult-protagonist",
-            "introvert-protagonist",
-            "meditative",
-            "iyashikei",
-            "bittersweet",
-            "food",
-            "daily-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Talentless Nana",
-        "author": "Looseboy",
-        "genre": [
-            "shounen",
-            "psychological",
-            "thriller",
-            "mystery",
-            "supernatural",
-            "battle royale"
-        ],
-        "tags": [
-            "survival",
-            "betrayal",
-            "moral-ambiguity",
-            "identity",
-            "cat-and-mouse",
-            "morally-grey-protagonist",
-            "dark",
-            "tense",
-            "psychological",
-            "unexpected",
-            "mind-game",
-            "mystery",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Uzaki-chan Wants to Hang Out!",
-        "author": "Take",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy",
-            "romance"
-        ],
-        "tags": [
-            "friendship",
-            "slow-burn-romance",
-            "coming-of-age",
-            "introvert-protagonist",
-            "comedy",
             "feel-good",
-            "school-life",
-            "college",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "No Game No Life",
-        "author": "Yuu Kamiya",
-        "genre": [
-            "seinen",
-            "comedy",
-            "fantasy",
-            "isekai",
-            "ecchi"
-        ],
-        "tags": [
-            "strategy",
-            "sibling-bond",
-            "overpowered-protagonist",
-            "genius-protagonist",
-            "colorful",
-            "game-world",
-            "transported-to-another-world",
-            "light-novel-adaptation"
-        ]
-    },
-    {
-        "title": "Vagabond",
-        "author": "Takehiko Inoue",
-        "genre": [
-            "seinen",
-            "action",
-            "drama",
-            "historical",
-            "martial arts",
-            "samurai"
-        ],
-        "tags": [
-            "self-discovery",
-            "redemption",
-            "suffering",
-            "philosophy-of-violence",
-            "anti-war",
-            "morally-grey-protagonist",
-            "suffering-protagonist",
-            "philosophical",
-            "dark",
-            "emotional",
-            "beautiful-artwork",
-            "historical-fiction",
-            "sword-fight",
-            "hiatus"
-        ]
-    },
-    {
-        "title": "Kuroko no Basket",
-        "author": "Tadatoshi Fujimaki",
-        "genre": [
-            "shounen",
-            "sports",
-            "comedy"
-        ],
-        "tags": [
-            "teamwork",
-            "rivalry",
-            "friendship",
-            "finding-purpose",
-            "underdog-protagonist",
-            "action-heavy",
-            "basketball",
-            "tournament",
+            "daily-life",
             "completed"
         ]
     },
     {
-        "title": "Jujutsu Kaisen",
-        "author": "Gege Akutami",
-        "genre": [
-            "shounen",
-            "action",
-            "supernatural",
-            "horror",
-            "dark fantasy"
-        ],
-        "tags": [
-            "sacrifice",
-            "tragedy",
-            "moral-ambiguity",
-            "subverts-tropes",
-            "morally-grey-protagonist",
-            "suffering-protagonist",
-            "dark",
-            "brutal",
-            "action-heavy",
-            "power-system",
-            "modern-setting"
-        ]
-    },
-    {
-        "title": "Classroom of the Elite",
-        "author": "Shougo Kinugasa",
+        "title": "Barakamon",
+        "author": "Satsuki Yoshino",
         "genre": [
             "seinen",
-            "psychological",
-            "drama",
-            "school",
-            "mystery"
-        ],
-        "tags": [
-            "strategy",
-            "moral-ambiguity",
-            "survival",
-            "identity",
-            "betrayal",
-            "genius-protagonist",
-            "morally-grey-protagonist",
-            "dark",
-            "tense",
-            "psychological",
-            "mind-game",
-            "school-life",
-            "light-novel-adaptation",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Haikyu!!",
-        "author": "Haruichi Furudate",
-        "genre": [
-            "shounen",
-            "sports",
             "comedy",
+            "slice of life",
             "drama"
         ],
         "tags": [
-            "coming-of-age",
-            "rivalry",
-            "teamwork",
+            "self-discovery",
             "finding-purpose",
-            "friendship",
-            "found-family",
-            "underdog-protagonist",
-            "never-give-up",
-            "hopeful",
-            "emotional",
-            "feel-good",
-            "volleyball",
-            "tournament",
-            "completed"
-        ]
-    },
-    {
-        "title": "Dorohedoro",
-        "author": "Q Hayashida",
-        "genre": [
-            "seinen",
-            "action",
-            "dark fantasy",
-            "horror",
-            "comedy"
-        ],
-        "tags": [
-            "found-family",
-            "identity-crisis",
-            "belonging",
-            "survival",
-            "ensemble-cast",
-            "morally-grey-protagonist",
-            "dark",
-            "brutal",
-            "unexpected",
-            "dark-comedy",
-            "world-building",
-            "completed"
-        ]
-    },
-    {
-        "title": "Your Lie in April",
-        "author": "Naoshi Arakawa",
-        "genre": [
-            "shounen",
-            "drama",
-            "romance",
-            "music",
-            "tragedy"
-        ],
-        "tags": [
-            "grief",
-            "terminal-illness",
             "healing",
-            "coming-of-age",
-            "trauma",
-            "loss",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "tear-jerker",
-            "beautiful",
-            "music",
-            "classical-music",
-            "completed"
-        ]
-    },
-    {
-        "title": "Vinland Saga",
-        "author": "Makoto Yukimura",
-        "genre": [
-            "seinen",
-            "action",
-            "adventure",
-            "drama",
-            "historical"
-        ],
-        "tags": [
-            "war",
-            "revenge",
-            "redemption",
-            "pacifism",
-            "anti-war",
-            "cycle-of-violence",
-            "morally-grey-protagonist",
-            "suffering-protagonist",
-            "dark",
-            "brutal",
-            "emotional",
-            "philosophical",
-            "bittersweet",
-            "historical-fiction",
-            "completed"
-        ]
-    },
-    {
-        "title": "Non Non Biyori",
-        "author": "Atto",
-        "genre": [
-            "seinen",
-            "comedy",
-            "slice of life"
-        ],
-        "tags": [
-            "childhood-wonder",
-            "friendship",
-            "child-protagonist",
+            "community",
+            "found-family",
+            "adult-protagonist",
             "heartwarming",
             "feel-good",
             "iyashikei",
-            "meditative",
-            "no-conflict",
+            "comedy",
             "rural",
             "nature-connection",
-            "daily-life"
+            "art",
+            "completed"
         ]
     },
     {
@@ -1416,193 +259,145 @@
         ]
     },
     {
-        "title": "Kakukaku Shikajika",
-        "author": "Akiko Higashimura",
+        "title": "Black Clover",
+        "author": "Yuki Tabata",
         "genre": [
-            "josei",
-            "slice of life",
-            "drama",
-            "comedy"
-        ],
-        "tags": [
-            "coming-of-age",
-            "self-discovery",
-            "finding-purpose",
-            "grief",
-            "mentor",
-            "adult-life",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "realistic",
-            "art",
-            "completed"
-        ]
-    },
-    {
-        "title": "I Am a Hero",
-        "author": "Kengo Hanazawa",
-        "genre": [
-            "seinen",
-            "horror",
+            "shounen",
             "action",
-            "drama",
-            "psychological"
+            "fantasy",
+            "magic",
+            "school"
         ],
         "tags": [
-            "survival",
-            "identity-crisis",
-            "depression",
-            "trauma",
-            "suffering-protagonist",
-            "dark",
-            "brutal",
-            "gore",
-            "realistic",
-            "psychological",
-            "zombie",
-            "post-apocalyptic",
-            "completed"
-        ]
-    },
-    {
-        "title": "Honey and Clover",
-        "author": "Chica Umino",
-        "genre": [
-            "josei",
-            "slice of life",
-            "drama",
-            "romance",
-            "comedy"
-        ],
-        "tags": [
-            "unrequited-love",
-            "finding-purpose",
-            "adult-life",
+            "rivalry",
             "friendship",
             "coming-of-age",
-            "loss",
-            "ensemble-cast",
+            "underdog-protagonist",
+            "never-give-up",
+            "hopeful",
+            "action-heavy",
+            "magic",
+            "power-system"
+        ]
+    },
+    {
+        "title": "Blame!",
+        "author": "Tsutomu Nihei",
+        "genre": [
+            "seinen",
+            "sci fi",
+            "action",
+            "horror",
+            "post apocalyptic",
+            "cyberpunk"
+        ],
+        "tags": [
+            "loneliness",
+            "survival",
+            "identity",
+            "lone-wanderer-protagonist",
+            "dark",
+            "atmospheric",
+            "brutal",
+            "world-building",
+            "dystopia",
+            "completed"
+        ]
+    },
+    {
+        "title": "Bleach",
+        "author": "Tite Kubo",
+        "genre": [
+            "shounen",
+            "action",
+            "supernatural"
+        ],
+        "tags": [
+            "power-up",
+            "rivalry",
+            "identity",
+            "duty",
+            "cool-protagonist",
+            "action-heavy",
+            "spirit-world",
+            "sword-fight",
+            "long-running",
+            "completed"
+        ]
+    },
+    {
+        "title": "Blue Period",
+        "author": "Tsubasa Yamaguchi",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "drama",
+            "school"
+        ],
+        "tags": [
+            "finding-purpose",
+            "self-discovery",
+            "coming-of-age",
+            "identity",
+            "belonging",
+            "suffering-protagonist",
+            "introvert-protagonist",
             "emotional",
-            "bittersweet",
-            "feel-good",
             "realistic",
+            "bittersweet",
             "art",
             "school-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Doraemon",
-        "author": "Fujiko F. Fujio",
-        "genre": [
-            "kodomomuke",
-            "comedy",
-            "sci fi",
-            "slice of life",
-            "adventure"
-        ],
-        "tags": [
-            "friendship",
-            "childhood-wonder",
-            "child-protagonist",
-            "heartwarming",
-            "iconic",
-            "daily-life",
-            "long-running",
-            "modern",
-            "future"
-        ]
-    },
-    {
-        "title": "Otoyomegatari",
-        "author": "Kaoru Mori",
-        "genre": [
-            "seinen",
-            "historical",
-            "romance",
-            "drama",
-            "slice of life"
-        ],
-        "tags": [
-            "love-story",
-            "community",
-            "family-bond",
-            "belonging",
-            "ensemble-cast",
-            "beautiful-artwork",
-            "meditative",
-            "bittersweet",
-            "historical-fiction",
-            "daily-life",
             "ongoing"
         ]
     },
     {
-        "title": "Akagi",
-        "author": "Nobuyuki Fukumoto",
+        "title": "Bocchi the Rock!",
+        "author": "Aki Hamaji",
         "genre": [
             "seinen",
-            "psychological",
-            "thriller",
-            "game"
+            "slice of life",
+            "comedy",
+            "music",
+            "school"
         ],
         "tags": [
-            "survival",
-            "moral-ambiguity",
-            "genius-protagonist",
-            "cool-protagonist",
-            "dark",
-            "tense",
-            "psychological",
-            "mind-game",
-            "gambling",
-            "completed"
-        ]
-    },
-    {
-        "title": "Sunny",
-        "author": "Taiyo Matsumoto",
-        "genre": [
-            "seinen",
-            "drama",
-            "slice of life"
-        ],
-        "tags": [
+            "social-anxiety",
             "loneliness",
             "belonging",
-            "grief",
-            "family-dysfunction",
-            "childhood-wonder",
-            "found-family",
-            "child-protagonist",
-            "suffering-protagonist",
-            "emotional",
+            "finding-purpose",
+            "friendship",
+            "coming-of-age",
+            "introvert-protagonist",
+            "heartwarming",
+            "feel-good",
+            "comedy",
             "bittersweet",
-            "atmospheric",
-            "daily-life",
+            "school-life",
+            "music",
+            "band",
             "completed"
         ]
     },
     {
-        "title": "Ranma 1/2",
-        "author": "Rumiko Takahashi",
+        "title": "Bunny Drop",
+        "author": "Yumi Unita",
         "genre": [
-            "shounen",
-            "action",
-            "comedy",
-            "romance",
-            "martial arts",
-            "gender bender"
+            "josei",
+            "slice of life",
+            "drama",
+            "comedy"
         ],
         "tags": [
-            "rivalry",
-            "romance",
-            "identity",
-            "ensemble-cast",
-            "absurd-comedy",
-            "martial-arts",
-            "gender-swap",
+            "found-family",
+            "family-bond",
+            "healing",
+            "adult-life",
+            "adult-protagonist",
+            "child-protagonist",
+            "heartwarming",
+            "feel-good",
+            "bittersweet",
+            "daily-life",
             "completed"
         ]
     },
@@ -1634,266 +429,133 @@
         ]
     },
     {
-        "title": "Wolf Children",
-        "author": "Mamoru Hosoda",
+        "title": "Chainsaw Man",
+        "author": "Tatsuki Fujimoto",
         "genre": [
             "shounen",
-            "drama",
-            "fantasy",
+            "action",
+            "comedy",
+            "horror",
+            "supernatural",
+            "dark fantasy"
+        ],
+        "tags": [
+            "tragedy",
+            "trauma",
+            "subverts-tropes",
+            "moral-ambiguity",
+            "existential",
+            "suffering-protagonist",
+            "anti-hero",
+            "dark",
+            "brutal",
+            "unexpected",
+            "dark-comedy",
+            "psychological",
+            "modern-setting"
+        ]
+    },
+    {
+        "title": "Chi's Sweet Home",
+        "author": "Konami Kanata",
+        "genre": [
+            "seinen",
+            "comedy",
             "slice of life"
         ],
         "tags": [
-            "motherhood",
-            "coming-of-age",
-            "grief",
-            "loss",
+            "family-bond",
             "belonging",
-            "family-bond",
-            "self-discovery",
-            "child-protagonist",
-            "emotional",
-            "bittersweet",
-            "tear-jerker",
-            "rural",
-            "completed"
-        ]
-    },
-    {
-        "title": "Spy x Family",
-        "author": "Tatsuya Endo",
-        "genre": [
-            "shounen",
-            "action",
-            "comedy",
-            "romance",
-            "slice of life"
-        ],
-        "tags": [
-            "found-family",
-            "family-bond",
-            "wholesome",
-            "cool-protagonist",
-            "ensemble-cast",
-            "feel-good",
+            "animal-protagonist",
             "heartwarming",
-            "comedy",
-            "spy",
-            "action-light"
-        ]
-    },
-    {
-        "title": "Fairy Tail",
-        "author": "Hiro Mashima",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "fantasy",
-            "comedy",
-            "magic"
-        ],
-        "tags": [
-            "friendship",
-            "found-family",
-            "never-give-up",
-            "ensemble-cast",
-            "hopeful",
             "feel-good",
-            "magic",
-            "guild",
-            "long-running",
+            "iyashikei",
+            "no-conflict",
+            "cute",
+            "daily-life",
             "completed"
         ]
     },
     {
-        "title": "Sword Art Online",
-        "author": "Reki Kawahara",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "romance",
-            "isekai",
-            "sci fi"
-        ],
-        "tags": [
-            "survival",
-            "romance",
-            "found-family",
-            "overpowered-protagonist",
-            "action-heavy",
-            "virtual-reality",
-            "trapped-in-another-world",
-            "light-novel-adaptation"
-        ]
-    },
-    {
-        "title": "Kaiji",
-        "author": "Nobuyuki Fukumoto",
+        "title": "Classroom of the Elite",
+        "author": "Shougo Kinugasa",
         "genre": [
             "seinen",
             "psychological",
-            "thriller",
             "drama",
-            "game"
+            "school",
+            "mystery"
         ],
         "tags": [
-            "survival",
-            "desperation",
-            "class-difference",
+            "strategy",
             "moral-ambiguity",
-            "suffering-protagonist",
+            "survival",
+            "identity",
+            "betrayal",
+            "genius-protagonist",
+            "morally-grey-protagonist",
             "dark",
             "tense",
             "psychological",
             "mind-game",
-            "gambling",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Blue Period",
-        "author": "Tsubasa Yamaguchi",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "drama",
-            "school"
-        ],
-        "tags": [
-            "finding-purpose",
-            "self-discovery",
-            "coming-of-age",
-            "identity",
-            "belonging",
-            "suffering-protagonist",
-            "introvert-protagonist",
-            "emotional",
-            "realistic",
-            "bittersweet",
-            "art",
             "school-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Monthly Girls' Nozaki-kun",
-        "author": "Izumi Tsubaki",
-        "genre": [
-            "shounen",
-            "comedy",
-            "romance",
-            "school"
-        ],
-        "tags": [
-            "slow-burn-romance",
-            "friendship",
-            "found-family",
-            "ensemble-cast",
-            "fun",
-            "absurd-comedy",
-            "feel-good",
-            "parody",
-            "school-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "My Next Life as a Villainess: All Routes Lead to Doom!",
-        "author": "Satoru Yamaguchi",
-        "genre": [
-            "shoujo",
-            "comedy",
-            "romance",
-            "fantasy",
-            "isekai",
-            "villainess",
-            "otome game",
-            "reincarnation"
-        ],
-        "tags": [
-            "found-family",
-            "friendship",
-            "subverts-tropes",
-            "romance",
-            "ensemble-cast",
-            "feel-good",
-            "wholesome",
-            "comedy",
-            "parody",
-            "trapped-in-another-world",
             "light-novel-adaptation",
             "ongoing"
         ]
     },
     {
-        "title": "Bleach",
-        "author": "Tite Kubo",
+        "title": "Code Geass: Lelouch of the Rebellion",
+        "author": "Majiko!",
         "genre": [
             "shounen",
             "action",
+            "mecha",
+            "psychological",
+            "military",
+            "drama"
+        ],
+        "tags": [
+            "sacrifice",
+            "revenge",
+            "redemption",
+            "betrayal",
+            "moral-ambiguity",
+            "political-intrigue",
+            "genius-protagonist",
+            "morally-grey-protagonist",
+            "villain-protagonist",
+            "dark",
+            "tense",
+            "emotional",
+            "action-heavy",
+            "mind-game",
+            "strategy",
+            "completed"
+        ]
+    },
+    {
+        "title": "Death Note",
+        "author": "Tsugumi Ohba",
+        "genre": [
+            "shounen",
+            "mystery",
+            "psychological",
+            "thriller",
             "supernatural"
         ],
         "tags": [
-            "power-up",
-            "rivalry",
-            "identity",
-            "duty",
-            "cool-protagonist",
-            "action-heavy",
-            "spirit-world",
-            "sword-fight",
-            "long-running",
+            "justice-vs-evil",
+            "moral-ambiguity",
+            "cat-and-mouse",
+            "genius-protagonist",
+            "villain-protagonist",
+            "morally-grey-protagonist",
+            "dark",
+            "tense",
+            "psychological",
+            "mind-game",
+            "mystery",
             "completed"
-        ]
-    },
-    {
-        "title": "Silver Spoon",
-        "author": "Hiromu Arakawa",
-        "genre": [
-            "shounen",
-            "slice of life",
-            "comedy",
-            "drama",
-            "school"
-        ],
-        "tags": [
-            "self-discovery",
-            "finding-purpose",
-            "coming-of-age",
-            "community",
-            "suffering-protagonist",
-            "feel-good",
-            "heartwarming",
-            "comedy",
-            "educational",
-            "school-life",
-            "rural",
-            "completed"
-        ]
-    },
-    {
-        "title": "Nana",
-        "author": "Ai Yazawa",
-        "genre": [
-            "josei",
-            "drama",
-            "romance",
-            "music"
-        ],
-        "tags": [
-            "female-friendship",
-            "adult-life",
-            "love-triangle",
-            "loss",
-            "identity",
-            "ensemble-cast",
-            "emotional",
-            "bittersweet",
-            "realistic",
-            "music",
-            "band",
-            "hiatus"
         ]
     },
     {
@@ -1922,301 +584,97 @@
         ]
     },
     {
-        "title": "Chi's Sweet Home",
-        "author": "Konami Kanata",
+        "title": "Demon Slayer",
+        "author": "Koyoharu Gotouge",
         "genre": [
-            "seinen",
-            "comedy",
-            "slice of life"
+            "shounen",
+            "action",
+            "supernatural",
+            "historical",
+            "taisho"
         ],
         "tags": [
             "family-bond",
-            "belonging",
-            "animal-protagonist",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "no-conflict",
-            "cute",
-            "daily-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Rurouni Kenshin",
-        "author": "Nobuhiro Watsuki",
-        "genre": [
-            "shounen",
-            "action",
-            "historical",
-            "samurai",
-            "romance",
-            "drama"
-        ],
-        "tags": [
+            "sacrifice",
             "redemption",
-            "guilt",
-            "found-family",
-            "anti-war",
-            "philosophy-of-violence",
-            "morally-grey-protagonist",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "action-heavy",
-            "historical-fiction",
-            "sword-fight",
-            "completed"
-        ]
-    },
-    {
-        "title": "Mushishi",
-        "author": "Yuki Urushibara",
-        "genre": [
-            "seinen",
-            "adventure",
-            "mystery",
-            "supernatural",
-            "slice of life",
-            "historical"
-        ],
-        "tags": [
             "grief",
-            "healing",
-            "belonging",
-            "nature-connection",
-            "acceptance",
-            "lone-wanderer-protagonist",
-            "atmospheric",
-            "meditative",
-            "bittersweet",
-            "iyashikei",
-            "japanese-folklore",
-            "episodic",
-            "completed"
-        ]
-    },
-    {
-        "title": "Hunter x Hunter",
-        "author": "Yoshihiro Togashi",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "fantasy"
-        ],
-        "tags": [
-            "coming-of-age",
-            "friendship",
-            "moral-ambiguity",
-            "subverts-tropes",
-            "complex-antagonists",
-            "genius-protagonist",
-            "dark",
-            "psychological",
-            "unexpected",
-            "unique-power-system",
-            "world-building",
-            "hiatus"
-        ]
-    },
-    {
-        "title": "Slam Dunk",
-        "author": "Takehiko Inoue",
-        "genre": [
-            "shounen",
-            "sports",
-            "comedy",
-            "drama"
-        ],
-        "tags": [
-            "coming-of-age",
-            "rivalry",
-            "teamwork",
-            "finding-purpose",
-            "friendship",
             "underdog-protagonist",
             "never-give-up",
-            "feel-good",
-            "iconic",
-            "basketball",
-            "tournament",
+            "emotional",
+            "hopeful",
+            "beautiful-artwork",
+            "sword-fight",
+            "power-system",
+            "historical-fiction",
             "completed"
         ]
     },
     {
-        "title": "Bunny Drop",
-        "author": "Yumi Unita",
+        "title": "Dinosaur Sanctuary",
+        "author": "Itaru Kinoshita",
         "genre": [
-            "josei",
+            "seinen",
             "slice of life",
-            "drama",
+            "drama"
+        ],
+        "tags": [
+            "finding-purpose",
+            "community",
+            "adult-life",
+            "adult-protagonist",
+            "heartwarming",
+            "feel-good",
+            "educational",
+            "workplace",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Doraemon",
+        "author": "Fujiko F. Fujio",
+        "genre": [
+            "kodomomuke",
+            "comedy",
+            "sci fi",
+            "slice of life",
+            "adventure"
+        ],
+        "tags": [
+            "friendship",
+            "childhood-wonder",
+            "child-protagonist",
+            "heartwarming",
+            "iconic",
+            "daily-life",
+            "long-running",
+            "modern",
+            "future"
+        ]
+    },
+    {
+        "title": "Dorohedoro",
+        "author": "Q Hayashida",
+        "genre": [
+            "seinen",
+            "action",
+            "dark fantasy",
+            "horror",
             "comedy"
         ],
         "tags": [
             "found-family",
-            "family-bond",
-            "healing",
-            "adult-life",
-            "adult-protagonist",
-            "child-protagonist",
-            "heartwarming",
-            "feel-good",
-            "bittersweet",
-            "daily-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "The Girl from the Other Side",
-        "author": "Nagabe",
-        "genre": [
-            "seinen",
-            "fantasy",
-            "drama",
-            "supernatural",
-            "dark fantasy"
-        ],
-        "tags": [
-            "found-family",
-            "grief",
-            "loneliness",
-            "belonging",
-            "sacrifice",
-            "child-protagonist",
-            "atmospheric",
-            "bittersweet",
-            "dark",
-            "beautiful",
-            "dark-fairy-tale",
-            "completed"
-        ]
-    },
-    {
-        "title": "Neon Genesis Evangelion",
-        "author": "Yoshiyuki Sadamoto",
-        "genre": [
-            "shounen",
-            "action",
-            "mecha",
-            "psychological",
-            "sci fi",
-            "dark fantasy"
-        ],
-        "tags": [
-            "depression",
-            "trauma",
             "identity-crisis",
-            "loneliness",
             "belonging",
-            "family-dysfunction",
-            "existential",
-            "suffering-protagonist",
-            "introvert-protagonist",
-            "dark",
-            "psychological",
-            "philosophical",
-            "iconic",
-            "world-building",
-            "completed"
-        ]
-    },
-    {
-        "title": "Chainsaw Man",
-        "author": "Tatsuki Fujimoto",
-        "genre": [
-            "shounen",
-            "action",
-            "comedy",
-            "horror",
-            "supernatural",
-            "dark fantasy"
-        ],
-        "tags": [
-            "tragedy",
-            "trauma",
-            "subverts-tropes",
-            "moral-ambiguity",
-            "existential",
-            "suffering-protagonist",
-            "anti-hero",
+            "survival",
+            "ensemble-cast",
+            "morally-grey-protagonist",
             "dark",
             "brutal",
             "unexpected",
             "dark-comedy",
-            "psychological",
-            "modern-setting"
-        ]
-    },
-    {
-        "title": "Fruits Basket",
-        "author": "Natsuki Takaya",
-        "genre": [
-            "shoujo",
-            "drama",
-            "romance",
-            "comedy",
-            "supernatural"
-        ],
-        "tags": [
-            "healing",
-            "trauma",
-            "family-dysfunction",
-            "belonging",
-            "found-family",
-            "redemption",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "heartwarming",
-            "feel-good",
-            "curse",
+            "world-building",
             "completed"
-        ]
-    },
-    {
-        "title": "Inuyasha",
-        "author": "Rumiko Takahashi",
-        "genre": [
-            "shounen",
-            "action",
-            "adventure",
-            "romance",
-            "supernatural",
-            "historical"
-        ],
-        "tags": [
-            "found-family",
-            "romance",
-            "belonging",
-            "rivalry",
-            "ensemble-cast",
-            "action-heavy",
-            "hopeful",
-            "historical-fiction",
-            "time-travel",
-            "long-running",
-            "completed"
-        ]
-    },
-    {
-        "title": "Ichigo Mashimaro",
-        "author": "Barasui",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy"
-        ],
-        "tags": [
-            "childhood-wonder",
-            "friendship",
-            "child-protagonist",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "cute",
-            "daily-life",
-            "ongoing"
         ]
     },
     {
@@ -2241,6 +699,53 @@
             "iconic",
             "power-system",
             "martial-arts",
+            "completed"
+        ]
+    },
+    {
+        "title": "Dragon Ball Z",
+        "author": "Akira Toriyama",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "comedy",
+            "martial arts",
+            "sci fi"
+        ],
+        "tags": [
+            "friendship",
+            "family-bond",
+            "sacrifice",
+            "rivalry",
+            "never-give-up",
+            "overpowered-protagonist",
+            "action-heavy",
+            "iconic",
+            "power-system",
+            "tournament",
+            "completed"
+        ]
+    },
+    {
+        "title": "Emma",
+        "author": "Kaoru Mori",
+        "genre": [
+            "seinen",
+            "historical",
+            "romance",
+            "drama"
+        ],
+        "tags": [
+            "love-story",
+            "class-difference",
+            "belonging",
+            "self-discovery",
+            "adult-protagonist",
+            "beautiful-artwork",
+            "emotional",
+            "bittersweet",
+            "historical-fiction",
             "completed"
         ]
     },
@@ -2277,159 +782,76 @@
         ]
     },
     {
-        "title": "Mitsuboshi Colors",
-        "author": "Katsuwo",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy"
-        ],
-        "tags": [
-            "childhood-wonder",
-            "friendship",
-            "child-protagonist",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "no-conflict",
-            "daily-life",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Witch Hat Atelier",
-        "author": "Kamome Shirahama",
-        "genre": [
-            "shounen",
-            "adventure",
-            "fantasy",
-            "magic",
-            "drama"
-        ],
-        "tags": [
-            "finding-purpose",
-            "coming-of-age",
-            "belonging",
-            "friendship",
-            "underdog-protagonist",
-            "beautiful-artwork",
-            "atmospheric",
-            "world-building",
-            "magic",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Pluto",
-        "author": "Naoki Urasawa",
-        "genre": [
-            "seinen",
-            "sci fi",
-            "mystery",
-            "drama"
-        ],
-        "tags": [
-            "war",
-            "grief",
-            "identity",
-            "moral-ambiguity",
-            "anti-war",
-            "suffering-protagonist",
-            "dark",
-            "emotional",
-            "philosophical",
-            "mystery",
-            "robot",
-            "completed"
-        ]
-    },
-    {
-        "title": "jojo",
-        "author": "araki",
-        "genre": [
-            "shounen"
-        ],
-        "tags": [
-            "adventure",
-            "egypt"
-        ]
-    },
-    {
-        "title": "Made in Abyss",
-        "author": "Akihito Tsukushi",
-        "genre": [
-            "seinen",
-            "adventure",
-            "fantasy",
-            "mystery",
-            "horror"
-        ],
-        "tags": [
-            "sacrifice",
-            "grief",
-            "loss",
-            "suffering",
-            "trauma",
-            "found-family",
-            "child-protagonist",
-            "suffering-protagonist",
-            "dark",
-            "brutal",
-            "bittersweet",
-            "atmospheric",
-            "world-building",
-            "mystery",
-            "exploration",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Dragon Ball Z",
-        "author": "Akira Toriyama",
+        "title": "Fairy Tail",
+        "author": "Hiro Mashima",
         "genre": [
             "shounen",
             "action",
             "adventure",
+            "fantasy",
             "comedy",
-            "martial arts",
-            "sci fi"
+            "magic"
         ],
         "tags": [
             "friendship",
-            "family-bond",
-            "sacrifice",
-            "rivalry",
+            "found-family",
             "never-give-up",
-            "overpowered-protagonist",
-            "action-heavy",
-            "iconic",
-            "power-system",
-            "tournament",
+            "ensemble-cast",
+            "hopeful",
+            "feel-good",
+            "magic",
+            "guild",
+            "long-running",
             "completed"
         ]
     },
     {
-        "title": "Ping Pong the Animation",
-        "author": "Taiyou Matsumoto",
+        "title": "Flying Witch",
+        "author": "Chihiro Ishizuka",
         "genre": [
-            "seinen",
-            "sports",
+            "shounen",
+            "slice of life",
+            "comedy",
+            "magic",
+            "supernatural"
+        ],
+        "tags": [
+            "coming-of-age",
+            "family-bond",
+            "found-family",
+            "nature-connection",
+            "community",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "meditative",
+            "rural",
+            "magic",
+            "daily-life"
+        ]
+    },
+    {
+        "title": "Food Wars!: Shokugeki no Soma",
+        "author": "Yuto Tsukuda",
+        "genre": [
+            "shounen",
+            "cooking",
+            "school",
+            "comedy",
             "drama",
-            "psychological"
+            "gourmet"
         ],
         "tags": [
             "rivalry",
-            "identity",
-            "finding-purpose",
-            "self-discovery",
             "coming-of-age",
-            "talent-vs-effort",
-            "suffering-protagonist",
-            "philosophical",
-            "emotional",
-            "psychological",
-            "bittersweet",
-            "tournament",
+            "finding-purpose",
+            "never-give-up",
+            "underdog-protagonist",
+            "feel-good",
+            "action-heavy",
+            "school-life",
+            "food",
             "completed"
         ]
     },
@@ -2463,28 +885,566 @@
         ]
     },
     {
-        "title": "Kuroshitsuji",
-        "author": "Yana Toboso",
+        "title": "Fruits Basket",
+        "author": "Natsuki Takaya",
         "genre": [
             "shoujo",
+            "drama",
+            "romance",
+            "comedy",
+            "supernatural"
+        ],
+        "tags": [
+            "healing",
+            "trauma",
+            "family-dysfunction",
+            "belonging",
+            "found-family",
+            "redemption",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "heartwarming",
+            "feel-good",
+            "curse",
+            "completed"
+        ]
+    },
+    {
+        "title": "Fullmetal Alchemist",
+        "author": "Hiromu Arakawa",
+        "genre": [
+            "shounen",
             "action",
-            "mystery",
-            "supernatural",
+            "adventure",
+            "fantasy",
+            "drama"
+        ],
+        "tags": [
+            "brotherhood",
+            "sacrifice",
+            "war",
+            "redemption",
+            "family-bond",
+            "moral-ambiguity",
+            "found-family",
+            "never-give-up",
+            "morally-grey-protagonist",
+            "emotional",
+            "hopeful",
+            "action-heavy",
+            "philosophical",
+            "world-building",
+            "power-system",
+            "completed"
+        ]
+    },
+    {
+        "title": "Fuuka",
+        "author": "Kouji Seo",
+        "genre": [
+            "shounen",
+            "romance",
+            "drama",
+            "music",
+            "school"
+        ],
+        "tags": [
+            "romance",
+            "grief",
+            "finding-purpose",
+            "friendship",
+            "loss",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "school-life",
+            "music",
+            "band",
+            "completed"
+        ]
+    },
+    {
+        "title": "Genshiken",
+        "author": "Shimoku Kio",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy"
+        ],
+        "tags": [
+            "belonging",
+            "finding-purpose",
+            "adult-life",
+            "friendship",
+            "identity",
+            "introvert-protagonist",
+            "ensemble-cast",
+            "feel-good",
+            "comedy",
+            "realistic",
+            "school-life",
+            "otaku-culture",
+            "completed"
+        ]
+    },
+    {
+        "title": "Given",
+        "author": "Natsuki Kizu",
+        "genre": [
+            "josei",
+            "romance",
+            "drama",
+            "music",
+            "boys love"
+        ],
+        "tags": [
+            "grief",
+            "healing",
+            "first-love",
+            "belonging",
+            "finding-purpose",
+            "introvert-protagonist",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "music",
+            "band",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Golden Kamuy",
+        "author": "Satoru Noda",
+        "genre": [
+            "seinen",
+            "action",
+            "adventure",
             "historical",
+            "comedy",
+            "cooking"
+        ],
+        "tags": [
+            "found-family",
+            "survival",
+            "friendship",
+            "betrayal",
+            "redemption",
+            "ensemble-cast",
+            "morally-grey-protagonist",
+            "dark",
+            "unexpected",
+            "comedy",
+            "historical-fiction",
+            "food",
+            "completed"
+        ]
+    },
+    {
+        "title": "Goodnight Punpun",
+        "author": "Inio Asano",
+        "genre": [
+            "seinen",
+            "drama",
+            "psychological",
+            "slice of life"
+        ],
+        "tags": [
+            "depression",
+            "trauma",
+            "loneliness",
+            "identity-crisis",
+            "family-dysfunction",
+            "guilt",
+            "loss",
+            "suffering-protagonist",
+            "dark",
+            "brutal",
+            "psychological",
+            "realistic",
+            "surreal",
+            "coming-of-age",
+            "completed"
+        ]
+    },
+    {
+        "title": "Gundam: The Origin",
+        "author": "Yoshikazu Yasuhiko",
+        "genre": [
+            "seinen",
+            "action",
+            "mecha",
+            "military",
+            "sci fi",
+            "drama"
+        ],
+        "tags": [
+            "war",
+            "anti-war",
+            "cycle-of-violence",
+            "moral-ambiguity",
+            "sacrifice",
+            "morally-grey-protagonist",
+            "dark",
+            "action-heavy",
+            "beautiful-artwork",
+            "political-intrigue",
+            "world-building",
+            "completed"
+        ]
+    },
+    {
+        "title": "Haikyu!!",
+        "author": "Haruichi Furudate",
+        "genre": [
+            "shounen",
+            "sports",
+            "comedy",
+            "drama"
+        ],
+        "tags": [
+            "coming-of-age",
+            "rivalry",
+            "teamwork",
+            "finding-purpose",
+            "friendship",
+            "found-family",
+            "underdog-protagonist",
+            "never-give-up",
+            "hopeful",
+            "emotional",
+            "feel-good",
+            "volleyball",
+            "tournament",
+            "completed"
+        ]
+    },
+    {
+        "title": "Hidamari Sketch",
+        "author": "Ume Aoki",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy",
+            "school"
+        ],
+        "tags": [
+            "friendship",
+            "finding-purpose",
+            "coming-of-age",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "comedy",
+            "school-life",
+            "art",
+            "daily-life"
+        ]
+    },
+    {
+        "title": "Hikaru no Go",
+        "author": "Yumi Hotta",
+        "genre": [
+            "shounen",
+            "sports",
+            "supernatural",
+            "drama",
+            "shogi go"
+        ],
+        "tags": [
+            "coming-of-age",
+            "rivalry",
+            "finding-purpose",
+            "friendship",
+            "grief",
+            "underdog-protagonist",
+            "prodigy",
+            "emotional",
+            "feel-good",
+            "bittersweet",
+            "mind-game",
+            "supernatural",
+            "completed"
+        ]
+    },
+    {
+        "title": "Honey and Clover",
+        "author": "Chica Umino",
+        "genre": [
+            "josei",
+            "slice of life",
+            "drama",
+            "romance",
+            "comedy"
+        ],
+        "tags": [
+            "unrequited-love",
+            "finding-purpose",
+            "adult-life",
+            "friendship",
+            "coming-of-age",
+            "loss",
+            "ensemble-cast",
+            "emotional",
+            "bittersweet",
+            "feel-good",
+            "realistic",
+            "art",
+            "school-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "Hunter x Hunter",
+        "author": "Yoshihiro Togashi",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "tags": [
+            "coming-of-age",
+            "friendship",
+            "moral-ambiguity",
+            "subverts-tropes",
+            "complex-antagonists",
+            "genius-protagonist",
+            "dark",
+            "psychological",
+            "unexpected",
+            "unique-power-system",
+            "world-building",
+            "hiatus"
+        ]
+    },
+    {
+        "title": "I Am a Hero",
+        "author": "Kengo Hanazawa",
+        "genre": [
+            "seinen",
+            "horror",
+            "action",
+            "drama",
+            "psychological"
+        ],
+        "tags": [
+            "survival",
+            "identity-crisis",
+            "depression",
+            "trauma",
+            "suffering-protagonist",
+            "dark",
+            "brutal",
+            "gore",
+            "realistic",
+            "psychological",
+            "zombie",
+            "post-apocalyptic",
+            "completed"
+        ]
+    },
+    {
+        "title": "Ichigo Mashimaro",
+        "author": "Barasui",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy"
+        ],
+        "tags": [
+            "childhood-wonder",
+            "friendship",
+            "child-protagonist",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "cute",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Inuyasha",
+        "author": "Rumiko Takahashi",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "romance",
+            "supernatural",
+            "historical"
+        ],
+        "tags": [
+            "found-family",
+            "romance",
+            "belonging",
+            "rivalry",
+            "ensemble-cast",
+            "action-heavy",
+            "hopeful",
+            "historical-fiction",
+            "time-travel",
+            "long-running",
+            "completed"
+        ]
+    },
+    {
+        "title": "jojo",
+        "author": "araki",
+        "genre": [
+            "shounen"
+        ],
+        "tags": [
+            "adventure",
+            "egypt"
+        ]
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "genre": [
+            "shounen",
+            "action",
+            "supernatural",
+            "horror",
             "dark fantasy"
         ],
         "tags": [
-            "revenge",
-            "betrayal",
-            "moral-ambiguity",
             "sacrifice",
-            "guilt",
+            "tragedy",
+            "moral-ambiguity",
+            "subverts-tropes",
             "morally-grey-protagonist",
+            "suffering-protagonist",
             "dark",
-            "stylish",
+            "brutal",
+            "action-heavy",
+            "power-system",
+            "modern-setting"
+        ]
+    },
+    {
+        "title": "K-ON!",
+        "author": "Kakifly",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy",
+            "music",
+            "school"
+        ],
+        "tags": [
+            "friendship",
+            "finding-purpose",
+            "coming-of-age",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "comedy",
+            "school-life",
+            "music",
+            "band",
+            "completed"
+        ]
+    },
+    {
+        "title": "Kaguya-sama: Love is War",
+        "author": "Aka Akasaka",
+        "genre": [
+            "shounen",
+            "comedy",
+            "romance",
+            "school",
+            "psychological"
+        ],
+        "tags": [
+            "rivalry",
+            "slow-burn-romance",
+            "pride",
+            "coming-of-age",
+            "genius-protagonist",
+            "feel-good",
+            "comedy",
+            "mind-game",
+            "school-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "Kaiji",
+        "author": "Nobuyuki Fukumoto",
+        "genre": [
+            "seinen",
+            "psychological",
+            "thriller",
+            "drama",
+            "game"
+        ],
+        "tags": [
+            "survival",
+            "desperation",
+            "class-difference",
+            "moral-ambiguity",
+            "suffering-protagonist",
+            "dark",
             "tense",
-            "mystery",
+            "psychological",
+            "mind-game",
+            "gambling",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Kakukaku Shikajika",
+        "author": "Akiko Higashimura",
+        "genre": [
+            "josei",
+            "slice of life",
+            "drama",
+            "comedy"
+        ],
+        "tags": [
+            "coming-of-age",
+            "self-discovery",
+            "finding-purpose",
+            "grief",
+            "mentor",
+            "adult-life",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "realistic",
+            "art",
+            "completed"
+        ]
+    },
+    {
+        "title": "Kingdom",
+        "author": "Yasuhisa Hara",
+        "genre": [
+            "seinen",
+            "action",
+            "historical",
+            "military",
+            "drama"
+        ],
+        "tags": [
+            "war",
+            "coming-of-age",
+            "rivalry",
+            "betrayal",
+            "found-family",
+            "underdog-protagonist",
+            "never-give-up",
+            "action-heavy",
+            "dark",
+            "brutal",
+            "strategy",
             "historical-fiction",
+            "long-running",
             "ongoing"
         ]
     },
@@ -2516,443 +1476,78 @@
         ]
     },
     {
-        "title": "Kingdom",
-        "author": "Yasuhisa Hara",
-        "genre": [
-            "seinen",
-            "action",
-            "historical",
-            "military",
-            "drama"
-        ],
-        "tags": [
-            "war",
-            "coming-of-age",
-            "rivalry",
-            "betrayal",
-            "found-family",
-            "underdog-protagonist",
-            "never-give-up",
-            "action-heavy",
-            "dark",
-            "brutal",
-            "strategy",
-            "historical-fiction",
-            "long-running",
-            "ongoing"
-        ]
-    },
-    {
-        "title": "Shaman King",
-        "author": "Hiroyuki Takei",
+        "title": "Kuroko no Basket",
+        "author": "Tadatoshi Fujimaki",
         "genre": [
             "shounen",
-            "action",
-            "adventure",
-            "supernatural",
+            "sports",
             "comedy"
         ],
         "tags": [
-            "friendship",
-            "found-family",
+            "teamwork",
             "rivalry",
-            "acceptance",
-            "ensemble-cast",
+            "friendship",
+            "finding-purpose",
+            "underdog-protagonist",
             "action-heavy",
-            "hopeful",
-            "japanese-folklore",
+            "basketball",
             "tournament",
             "completed"
         ]
     },
     {
-        "title": "Ouran High School Host Club",
-        "author": "Bisco Hatori",
+        "title": "Kuroshitsuji",
+        "author": "Yana Toboso",
         "genre": [
             "shoujo",
-            "comedy",
-            "romance",
-            "school",
-            "reverse harem"
-        ],
-        "tags": [
-            "found-family",
-            "friendship",
-            "class-difference",
-            "self-discovery",
-            "ensemble-cast",
-            "feel-good",
-            "comedy",
-            "heartwarming",
-            "parody",
-            "school-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Golden Kamuy",
-        "author": "Satoru Noda",
-        "genre": [
-            "seinen",
             "action",
-            "adventure",
-            "historical",
-            "comedy",
-            "cooking"
-        ],
-        "tags": [
-            "found-family",
-            "survival",
-            "friendship",
-            "betrayal",
-            "redemption",
-            "ensemble-cast",
-            "morally-grey-protagonist",
-            "dark",
-            "unexpected",
-            "comedy",
-            "historical-fiction",
-            "food",
-            "completed"
-        ]
-    },
-    {
-        "title": "Teasing Master Takagi-san",
-        "author": "Sōichirō Yamamoto",
-        "genre": [
-            "shounen",
-            "comedy",
-            "slice of life",
-            "romance",
-            "school"
-        ],
-        "tags": [
-            "slow-burn-romance",
-            "friendship",
-            "childhood-wonder",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "wholesome",
-            "comedy",
-            "school-life",
-            "daily-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Death Note",
-        "author": "Tsugumi Ohba",
-        "genre": [
-            "shounen",
             "mystery",
-            "psychological",
-            "thriller",
-            "supernatural"
-        ],
-        "tags": [
-            "justice-vs-evil",
-            "moral-ambiguity",
-            "cat-and-mouse",
-            "genius-protagonist",
-            "villain-protagonist",
-            "morally-grey-protagonist",
-            "dark",
-            "tense",
-            "psychological",
-            "mind-game",
-            "mystery",
-            "completed"
-        ]
-    },
-    {
-        "title": "Flying Witch",
-        "author": "Chihiro Ishizuka",
-        "genre": [
-            "shounen",
-            "slice of life",
-            "comedy",
-            "magic",
-            "supernatural"
-        ],
-        "tags": [
-            "coming-of-age",
-            "family-bond",
-            "found-family",
-            "nature-connection",
-            "community",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "meditative",
-            "rural",
-            "magic",
-            "daily-life"
-        ]
-    },
-    {
-        "title": "A Silent Voice",
-        "author": "Yoshitoki Oima",
-        "genre": [
-            "shounen",
-            "drama",
-            "romance",
-            "slice of life"
-        ],
-        "tags": [
-            "redemption",
-            "guilt",
-            "forgiveness",
-            "depression",
-            "loneliness",
-            "disability",
-            "belonging",
-            "trauma",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "tear-jerker",
-            "psychological",
-            "coming-of-age",
-            "completed"
-        ]
-    },
-    {
-        "title": "Hikaru no Go",
-        "author": "Yumi Hotta",
-        "genre": [
-            "shounen",
-            "sports",
-            "supernatural",
-            "drama",
-            "shogi go"
-        ],
-        "tags": [
-            "coming-of-age",
-            "rivalry",
-            "finding-purpose",
-            "friendship",
-            "grief",
-            "underdog-protagonist",
-            "prodigy",
-            "emotional",
-            "feel-good",
-            "bittersweet",
-            "mind-game",
-            "supernatural",
-            "completed"
-        ]
-    },
-    {
-        "title": "A Man and His Cat",
-        "author": "Umi Sakurai",
-        "genre": [
-            "josei",
-            "slice of life",
-            "comedy"
-        ],
-        "tags": [
-            "healing",
-            "loneliness",
-            "belonging",
-            "grief",
-            "adult-protagonist",
-            "lone-wanderer-protagonist",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "bittersweet",
-            "daily-life"
-        ]
-    },
-    {
-        "title": "Demon Slayer",
-        "author": "Koyoharu Gotouge",
-        "genre": [
-            "shounen",
-            "action",
             "supernatural",
             "historical",
-            "taisho"
-        ],
-        "tags": [
-            "family-bond",
-            "sacrifice",
-            "redemption",
-            "grief",
-            "underdog-protagonist",
-            "never-give-up",
-            "emotional",
-            "hopeful",
-            "beautiful-artwork",
-            "sword-fight",
-            "power-system",
-            "historical-fiction",
-            "completed"
-        ]
-    },
-    {
-        "title": "K-ON!",
-        "author": "Kakifly",
-        "genre": [
-            "seinen",
-            "slice of life",
-            "comedy",
-            "music",
-            "school"
-        ],
-        "tags": [
-            "friendship",
-            "finding-purpose",
-            "coming-of-age",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "iyashikei",
-            "comedy",
-            "school-life",
-            "music",
-            "band",
-            "completed"
-        ]
-    },
-    {
-        "title": "Re:Zero",
-        "author": "Tappei Nagatsuki",
-        "genre": [
-            "seinen",
-            "drama",
-            "fantasy",
-            "psychological",
-            "isekai"
-        ],
-        "tags": [
-            "trauma",
-            "suffering",
-            "time-loop",
-            "grief",
-            "subverts-tropes",
-            "redemption",
-            "suffering-protagonist",
-            "dark",
-            "psychological",
-            "emotional",
-            "brutal",
-            "trapped-in-another-world",
-            "light-novel-adaptation"
-        ]
-    },
-    {
-        "title": "Azumanga Daioh",
-        "author": "Kiyohiko Azuma",
-        "genre": [
-            "shounen",
-            "comedy",
-            "slice of life",
-            "school"
-        ],
-        "tags": [
-            "friendship",
-            "school-life",
-            "ensemble-cast",
-            "absurd-comedy",
-            "heartwarming",
-            "feel-good",
-            "daily-life",
-            "completed"
-        ]
-    },
-    {
-        "title": "Solanin",
-        "author": "Inio Asano",
-        "genre": [
-            "josei",
-            "drama",
-            "slice of life",
-            "music"
-        ],
-        "tags": [
-            "finding-purpose",
-            "grief",
-            "loss",
-            "adult-life",
-            "identity",
-            "suffering-protagonist",
-            "emotional",
-            "bittersweet",
-            "realistic",
-            "music",
-            "band",
-            "completed"
-        ]
-    },
-    {
-        "title": "Overlord",
-        "author": "Kugane Maruyama",
-        "genre": [
-            "seinen",
-            "action",
-            "fantasy",
-            "isekai",
             "dark fantasy"
         ],
         "tags": [
-            "world-domination",
-            "strategy",
+            "revenge",
+            "betrayal",
             "moral-ambiguity",
-            "villain-protagonist",
-            "overpowered-protagonist",
+            "sacrifice",
+            "guilt",
+            "morally-grey-protagonist",
             "dark",
-            "political-intrigue",
-            "ensemble-cast",
-            "trapped-in-another-world",
-            "light-novel-adaptation"
+            "stylish",
+            "tense",
+            "mystery",
+            "historical-fiction",
+            "ongoing"
         ]
     },
     {
-        "title": "Emma",
-        "author": "Kaoru Mori",
+        "title": "Made in Abyss",
+        "author": "Akihito Tsukushi",
         "genre": [
             "seinen",
-            "historical",
-            "romance",
-            "drama"
+            "adventure",
+            "fantasy",
+            "mystery",
+            "horror"
         ],
         "tags": [
-            "love-story",
-            "class-difference",
-            "belonging",
-            "self-discovery",
-            "adult-protagonist",
-            "beautiful-artwork",
-            "emotional",
+            "sacrifice",
+            "grief",
+            "loss",
+            "suffering",
+            "trauma",
+            "found-family",
+            "child-protagonist",
+            "suffering-protagonist",
+            "dark",
+            "brutal",
             "bittersweet",
-            "historical-fiction",
-            "completed"
-        ]
-    },
-    {
-        "title": "Takagi-san",
-        "author": "Sōichirō Yamamoto",
-        "genre": [
-            "shounen",
-            "comedy",
-            "slice of life",
-            "romance",
-            "school"
-        ],
-        "tags": [
-            "slow-burn-romance",
-            "friendship",
-            "childhood-wonder",
-            "ensemble-cast",
-            "heartwarming",
-            "feel-good",
-            "wholesome",
-            "comedy",
-            "school-life",
-            "daily-life"
+            "atmospheric",
+            "world-building",
+            "mystery",
+            "exploration",
+            "ongoing"
         ]
     },
     {
@@ -2984,13 +1579,1432 @@
         ]
     },
     {
-        "title": "awdaw",
-        "author": "awdwa",
+        "title": "Mitsuboshi Colors",
+        "author": "Katsuwo",
         "genre": [
-            "shounen"
+            "seinen",
+            "slice of life",
+            "comedy"
         ],
         "tags": [
-            "wdw"
+            "childhood-wonder",
+            "friendship",
+            "child-protagonist",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "no-conflict",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Monster",
+        "author": "Naoki Urasawa",
+        "genre": [
+            "seinen",
+            "mystery",
+            "thriller",
+            "psychological",
+            "drama"
+        ],
+        "tags": [
+            "moral-ambiguity",
+            "redemption",
+            "cat-and-mouse",
+            "finding-purpose",
+            "identity",
+            "morally-grey-protagonist",
+            "genius-protagonist",
+            "dark",
+            "tense",
+            "psychological",
+            "realistic",
+            "mystery",
+            "completed"
+        ]
+    },
+    {
+        "title": "Monthly Girls' Nozaki-kun",
+        "author": "Izumi Tsubaki",
+        "genre": [
+            "shounen",
+            "comedy",
+            "romance",
+            "school"
+        ],
+        "tags": [
+            "slow-burn-romance",
+            "friendship",
+            "found-family",
+            "ensemble-cast",
+            "fun",
+            "absurd-comedy",
+            "feel-good",
+            "parody",
+            "school-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Mushishi",
+        "author": "Yuki Urushibara",
+        "genre": [
+            "seinen",
+            "adventure",
+            "mystery",
+            "supernatural",
+            "slice of life",
+            "historical"
+        ],
+        "tags": [
+            "grief",
+            "healing",
+            "belonging",
+            "nature-connection",
+            "acceptance",
+            "lone-wanderer-protagonist",
+            "atmospheric",
+            "meditative",
+            "bittersweet",
+            "iyashikei",
+            "japanese-folklore",
+            "episodic",
+            "completed"
+        ]
+    },
+    {
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "author": "Rifujin na Magonote",
+        "genre": [
+            "seinen",
+            "adventure",
+            "drama",
+            "fantasy",
+            "isekai",
+            "reincarnation"
+        ],
+        "tags": [
+            "redemption",
+            "self-discovery",
+            "coming-of-age",
+            "found-family",
+            "romance",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "world-building",
+            "trapped-in-another-world",
+            "magic",
+            "light-novel-adaptation",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "My Dress-Up Darling",
+        "author": "Shinichi Fukuda",
+        "genre": [
+            "seinen",
+            "romance",
+            "comedy",
+            "school",
+            "otaku"
+        ],
+        "tags": [
+            "slow-burn-romance",
+            "finding-purpose",
+            "self-discovery",
+            "belonging",
+            "friendship",
+            "introvert-protagonist",
+            "feel-good",
+            "wholesome",
+            "heartwarming",
+            "comedy",
+            "school-life",
+            "otaku-culture",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "My Hero Academia",
+        "author": "Kohei Horikoshi",
+        "genre": [
+            "shounen",
+            "action",
+            "school",
+            "comedy",
+            "drama"
+        ],
+        "tags": [
+            "coming-of-age",
+            "found-family",
+            "rivalry",
+            "hero-vs-villain",
+            "sacrifice",
+            "tragedy",
+            "war",
+            "moral-ambiguity",
+            "underdog-protagonist",
+            "never-give-up",
+            "hopeful",
+            "emotional",
+            "dark",
+            "brutal",
+            "bittersweet",
+            "power-system",
+            "school-life",
+            "superhero",
+            "completed"
+        ]
+    },
+    {
+        "title": "My Neighbor Seki",
+        "author": "Takuma Morishige",
+        "genre": [
+            "shounen",
+            "comedy",
+            "slice of life",
+            "school"
+        ],
+        "tags": [
+            "friendship",
+            "ensemble-cast",
+            "absurd-comedy",
+            "school-life",
+            "daily-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "My Next Life as a Villainess: All Routes Lead to Doom!",
+        "author": "Satoru Yamaguchi",
+        "genre": [
+            "shoujo",
+            "comedy",
+            "romance",
+            "fantasy",
+            "isekai",
+            "villainess",
+            "otome game",
+            "reincarnation"
+        ],
+        "tags": [
+            "found-family",
+            "friendship",
+            "subverts-tropes",
+            "romance",
+            "ensemble-cast",
+            "feel-good",
+            "wholesome",
+            "comedy",
+            "parody",
+            "trapped-in-another-world",
+            "light-novel-adaptation",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Nana",
+        "author": "Ai Yazawa",
+        "genre": [
+            "josei",
+            "drama",
+            "romance",
+            "music"
+        ],
+        "tags": [
+            "female-friendship",
+            "adult-life",
+            "love-triangle",
+            "loss",
+            "identity",
+            "ensemble-cast",
+            "emotional",
+            "bittersweet",
+            "realistic",
+            "music",
+            "band",
+            "hiatus"
+        ]
+    },
+    {
+        "title": "Naruto",
+        "author": "Masashi Kishimoto",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "fantasy",
+            "martial arts"
+        ],
+        "tags": [
+            "coming-of-age",
+            "friendship",
+            "rivalry",
+            "redemption",
+            "underdog-protagonist",
+            "never-give-up",
+            "hopeful",
+            "emotional",
+            "bittersweet",
+            "power-system",
+            "ninja",
+            "political-intrigue",
+            "long-running",
+            "completed"
+        ]
+    },
+    {
+        "title": "Natsume's Book of Friends",
+        "author": "Yuki Midorikawa",
+        "genre": [
+            "shoujo",
+            "slice of life",
+            "supernatural",
+            "drama",
+            "fantasy"
+        ],
+        "tags": [
+            "loneliness",
+            "belonging",
+            "healing",
+            "found-family",
+            "acceptance",
+            "grief",
+            "introvert-protagonist",
+            "suffering-protagonist",
+            "heartwarming",
+            "emotional",
+            "bittersweet",
+            "iyashikei",
+            "atmospheric",
+            "meditative",
+            "japanese-folklore",
+            "episodic",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Neon Genesis Evangelion",
+        "author": "Yoshiyuki Sadamoto",
+        "genre": [
+            "shounen",
+            "action",
+            "mecha",
+            "psychological",
+            "sci fi",
+            "dark fantasy"
+        ],
+        "tags": [
+            "depression",
+            "trauma",
+            "identity-crisis",
+            "loneliness",
+            "belonging",
+            "family-dysfunction",
+            "existential",
+            "suffering-protagonist",
+            "introvert-protagonist",
+            "dark",
+            "psychological",
+            "philosophical",
+            "iconic",
+            "world-building",
+            "completed"
+        ]
+    },
+    {
+        "title": "Nichijou",
+        "author": "Keiichi Arawi",
+        "genre": [
+            "seinen",
+            "comedy",
+            "slice of life",
+            "school"
+        ],
+        "tags": [
+            "friendship",
+            "school-life",
+            "ensemble-cast",
+            "absurd-comedy",
+            "heartwarming",
+            "feel-good",
+            "daily-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "No Game No Life",
+        "author": "Yuu Kamiya",
+        "genre": [
+            "seinen",
+            "comedy",
+            "fantasy",
+            "isekai",
+            "ecchi"
+        ],
+        "tags": [
+            "strategy",
+            "sibling-bond",
+            "overpowered-protagonist",
+            "genius-protagonist",
+            "colorful",
+            "game-world",
+            "transported-to-another-world",
+            "light-novel-adaptation"
+        ]
+    },
+    {
+        "title": "Non Non Biyori",
+        "author": "Atto",
+        "genre": [
+            "seinen",
+            "comedy",
+            "slice of life"
+        ],
+        "tags": [
+            "childhood-wonder",
+            "friendship",
+            "child-protagonist",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "meditative",
+            "no-conflict",
+            "rural",
+            "nature-connection",
+            "daily-life"
+        ]
+    },
+    {
+        "title": "One Piece",
+        "author": "Eiichiro Oda",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy"
+        ],
+        "tags": [
+            "coming-of-age",
+            "friendship",
+            "found-family",
+            "freedom",
+            "underdog-protagonist",
+            "never-give-up",
+            "hopeful",
+            "emotional",
+            "world-building",
+            "political-intrigue",
+            "ensemble-cast",
+            "long-running"
+        ]
+    },
+    {
+        "title": "Oshi no Ko",
+        "author": "Aka Akasaka",
+        "genre": [
+            "seinen",
+            "drama",
+            "mystery",
+            "supernatural",
+            "idol"
+        ],
+        "tags": [
+            "revenge",
+            "identity",
+            "grief",
+            "trauma",
+            "moral-ambiguity",
+            "reincarnation",
+            "morally-grey-protagonist",
+            "suffering-protagonist",
+            "dark",
+            "tense",
+            "emotional",
+            "unexpected",
+            "psychological",
+            "mystery",
+            "entertainment-industry",
+            "completed"
+        ]
+    },
+    {
+        "title": "Otoyomegatari",
+        "author": "Kaoru Mori",
+        "genre": [
+            "seinen",
+            "historical",
+            "romance",
+            "drama",
+            "slice of life"
+        ],
+        "tags": [
+            "love-story",
+            "community",
+            "family-bond",
+            "belonging",
+            "ensemble-cast",
+            "beautiful-artwork",
+            "meditative",
+            "bittersweet",
+            "historical-fiction",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Ouran High School Host Club",
+        "author": "Bisco Hatori",
+        "genre": [
+            "shoujo",
+            "comedy",
+            "romance",
+            "school",
+            "reverse harem"
+        ],
+        "tags": [
+            "found-family",
+            "friendship",
+            "class-difference",
+            "self-discovery",
+            "ensemble-cast",
+            "feel-good",
+            "comedy",
+            "heartwarming",
+            "parody",
+            "school-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "Overlord",
+        "author": "Kugane Maruyama",
+        "genre": [
+            "seinen",
+            "action",
+            "fantasy",
+            "isekai",
+            "dark fantasy"
+        ],
+        "tags": [
+            "world-domination",
+            "strategy",
+            "moral-ambiguity",
+            "villain-protagonist",
+            "overpowered-protagonist",
+            "dark",
+            "political-intrigue",
+            "ensemble-cast",
+            "trapped-in-another-world",
+            "light-novel-adaptation"
+        ]
+    },
+    {
+        "title": "Ping Pong the Animation",
+        "author": "Taiyou Matsumoto",
+        "genre": [
+            "seinen",
+            "sports",
+            "drama",
+            "psychological"
+        ],
+        "tags": [
+            "rivalry",
+            "identity",
+            "finding-purpose",
+            "self-discovery",
+            "coming-of-age",
+            "talent-vs-effort",
+            "suffering-protagonist",
+            "philosophical",
+            "emotional",
+            "psychological",
+            "bittersweet",
+            "tournament",
+            "completed"
+        ]
+    },
+    {
+        "title": "Planetes",
+        "author": "Makoto Yukimura",
+        "genre": [
+            "seinen",
+            "sci fi",
+            "drama",
+            "slice of life"
+        ],
+        "tags": [
+            "finding-purpose",
+            "adult-life",
+            "self-discovery",
+            "love-story",
+            "sacrifice",
+            "adult-protagonist",
+            "emotional",
+            "realistic",
+            "bittersweet",
+            "philosophical",
+            "world-building",
+            "completed"
+        ]
+    },
+    {
+        "title": "Pluto",
+        "author": "Naoki Urasawa",
+        "genre": [
+            "seinen",
+            "sci fi",
+            "mystery",
+            "drama"
+        ],
+        "tags": [
+            "war",
+            "grief",
+            "identity",
+            "moral-ambiguity",
+            "anti-war",
+            "suffering-protagonist",
+            "dark",
+            "emotional",
+            "philosophical",
+            "mystery",
+            "robot",
+            "completed"
+        ]
+    },
+    {
+        "title": "Ranma 1/2",
+        "author": "Rumiko Takahashi",
+        "genre": [
+            "shounen",
+            "action",
+            "comedy",
+            "romance",
+            "martial arts",
+            "gender bender"
+        ],
+        "tags": [
+            "rivalry",
+            "romance",
+            "identity",
+            "ensemble-cast",
+            "absurd-comedy",
+            "martial-arts",
+            "gender-swap",
+            "completed"
+        ]
+    },
+    {
+        "title": "Re:Zero",
+        "author": "Tappei Nagatsuki",
+        "genre": [
+            "seinen",
+            "drama",
+            "fantasy",
+            "psychological",
+            "isekai"
+        ],
+        "tags": [
+            "trauma",
+            "suffering",
+            "time-loop",
+            "grief",
+            "subverts-tropes",
+            "redemption",
+            "suffering-protagonist",
+            "dark",
+            "psychological",
+            "emotional",
+            "brutal",
+            "trapped-in-another-world",
+            "light-novel-adaptation"
+        ]
+    },
+    {
+        "title": "Rurouni Kenshin",
+        "author": "Nobuhiro Watsuki",
+        "genre": [
+            "shounen",
+            "action",
+            "historical",
+            "samurai",
+            "romance",
+            "drama"
+        ],
+        "tags": [
+            "redemption",
+            "guilt",
+            "found-family",
+            "anti-war",
+            "philosophy-of-violence",
+            "morally-grey-protagonist",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "action-heavy",
+            "historical-fiction",
+            "sword-fight",
+            "completed"
+        ]
+    },
+    {
+        "title": "Sailor Moon",
+        "author": "Naoko Takeuchi",
+        "genre": [
+            "shoujo",
+            "action",
+            "romance",
+            "fantasy",
+            "magic"
+        ],
+        "tags": [
+            "friendship",
+            "found-family",
+            "love-story",
+            "sacrifice",
+            "reincarnation",
+            "ensemble-cast",
+            "hopeful",
+            "iconic",
+            "feel-good",
+            "magic",
+            "magical-girl",
+            "completed"
+        ]
+    },
+    {
+        "title": "Shaman King",
+        "author": "Hiroyuki Takei",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "supernatural",
+            "comedy"
+        ],
+        "tags": [
+            "friendship",
+            "found-family",
+            "rivalry",
+            "acceptance",
+            "ensemble-cast",
+            "action-heavy",
+            "hopeful",
+            "japanese-folklore",
+            "tournament",
+            "completed"
+        ]
+    },
+    {
+        "title": "Silver Spoon",
+        "author": "Hiromu Arakawa",
+        "genre": [
+            "shounen",
+            "slice of life",
+            "comedy",
+            "drama",
+            "school"
+        ],
+        "tags": [
+            "self-discovery",
+            "finding-purpose",
+            "coming-of-age",
+            "community",
+            "suffering-protagonist",
+            "feel-good",
+            "heartwarming",
+            "comedy",
+            "educational",
+            "school-life",
+            "rural",
+            "completed"
+        ]
+    },
+    {
+        "title": "Skip and Loafer",
+        "author": "Misaki Takamatsu",
+        "genre": [
+            "josei",
+            "slice of life",
+            "romance",
+            "comedy",
+            "school"
+        ],
+        "tags": [
+            "coming-of-age",
+            "friendship",
+            "slow-burn-romance",
+            "self-discovery",
+            "belonging",
+            "underdog-protagonist",
+            "feel-good",
+            "wholesome",
+            "heartwarming",
+            "comedy",
+            "school-life",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Slam Dunk",
+        "author": "Takehiko Inoue",
+        "genre": [
+            "shounen",
+            "sports",
+            "comedy",
+            "drama"
+        ],
+        "tags": [
+            "coming-of-age",
+            "rivalry",
+            "teamwork",
+            "finding-purpose",
+            "friendship",
+            "underdog-protagonist",
+            "never-give-up",
+            "feel-good",
+            "iconic",
+            "basketball",
+            "tournament",
+            "completed"
+        ]
+    },
+    {
+        "title": "Solanin",
+        "author": "Inio Asano",
+        "genre": [
+            "josei",
+            "drama",
+            "slice of life",
+            "music"
+        ],
+        "tags": [
+            "finding-purpose",
+            "grief",
+            "loss",
+            "adult-life",
+            "identity",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "realistic",
+            "music",
+            "band",
+            "completed"
+        ]
+    },
+    {
+        "title": "Spy x Family",
+        "author": "Tatsuya Endo",
+        "genre": [
+            "shounen",
+            "action",
+            "comedy",
+            "romance",
+            "slice of life"
+        ],
+        "tags": [
+            "found-family",
+            "family-bond",
+            "wholesome",
+            "cool-protagonist",
+            "ensemble-cast",
+            "feel-good",
+            "heartwarming",
+            "comedy",
+            "spy",
+            "action-light"
+        ]
+    },
+    {
+        "title": "Sunny",
+        "author": "Taiyo Matsumoto",
+        "genre": [
+            "seinen",
+            "drama",
+            "slice of life"
+        ],
+        "tags": [
+            "loneliness",
+            "belonging",
+            "grief",
+            "family-dysfunction",
+            "childhood-wonder",
+            "found-family",
+            "child-protagonist",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "atmospheric",
+            "daily-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "Sword Art Online",
+        "author": "Reki Kawahara",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "romance",
+            "isekai",
+            "sci fi"
+        ],
+        "tags": [
+            "survival",
+            "romance",
+            "found-family",
+            "overpowered-protagonist",
+            "action-heavy",
+            "virtual-reality",
+            "trapped-in-another-world",
+            "light-novel-adaptation"
+        ]
+    },
+    {
+        "title": "Takagi-san",
+        "author": "Sōichirō Yamamoto",
+        "genre": [
+            "shounen",
+            "comedy",
+            "slice of life",
+            "romance",
+            "school"
+        ],
+        "tags": [
+            "slow-burn-romance",
+            "friendship",
+            "childhood-wonder",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "wholesome",
+            "comedy",
+            "school-life",
+            "daily-life"
+        ]
+    },
+    {
+        "title": "Talentless Nana",
+        "author": "Looseboy",
+        "genre": [
+            "shounen",
+            "psychological",
+            "thriller",
+            "mystery",
+            "supernatural",
+            "battle royale"
+        ],
+        "tags": [
+            "survival",
+            "betrayal",
+            "moral-ambiguity",
+            "identity",
+            "cat-and-mouse",
+            "morally-grey-protagonist",
+            "dark",
+            "tense",
+            "psychological",
+            "unexpected",
+            "mind-game",
+            "mystery",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Teasing Master Takagi-san",
+        "author": "Sōichirō Yamamoto",
+        "genre": [
+            "shounen",
+            "comedy",
+            "slice of life",
+            "romance",
+            "school"
+        ],
+        "tags": [
+            "slow-burn-romance",
+            "friendship",
+            "childhood-wonder",
+            "ensemble-cast",
+            "heartwarming",
+            "feel-good",
+            "wholesome",
+            "comedy",
+            "school-life",
+            "daily-life",
+            "completed"
+        ]
+    },
+    {
+        "title": "That Time I Got Reincarnated as a Slime",
+        "author": "Taiki Kawakami",
+        "genre": [
+            "shounen",
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy",
+            "isekai"
+        ],
+        "tags": [
+            "found-family",
+            "friendship",
+            "community",
+            "political-intrigue",
+            "overpowered-protagonist",
+            "feel-good",
+            "hopeful",
+            "world-building",
+            "trapped-in-another-world",
+            "nation-building",
+            "light-novel-adaptation",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "The Eminence in Shadow",
+        "author": "Daisuke Aizawa",
+        "genre": [
+            "seinen",
+            "action",
+            "comedy",
+            "fantasy",
+            "isekai"
+        ],
+        "tags": [
+            "friendship",
+            "rivalry",
+            "overpowered-protagonist",
+            "cool-protagonist",
+            "absurd-comedy",
+            "parody",
+            "self-aware",
+            "trapped-in-another-world",
+            "light-novel-adaptation",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "The Girl from the Other Side",
+        "author": "Nagabe",
+        "genre": [
+            "seinen",
+            "fantasy",
+            "drama",
+            "supernatural",
+            "dark fantasy"
+        ],
+        "tags": [
+            "found-family",
+            "grief",
+            "loneliness",
+            "belonging",
+            "sacrifice",
+            "child-protagonist",
+            "atmospheric",
+            "bittersweet",
+            "dark",
+            "beautiful",
+            "dark-fairy-tale",
+            "completed"
+        ]
+    },
+    {
+        "title": "The Way of the Househusband",
+        "author": "Kousuke Oono",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy"
+        ],
+        "tags": [
+            "found-family",
+            "redemption",
+            "adult-protagonist",
+            "absurd-comedy",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Thermae Romae",
+        "author": "Mari Yamazaki",
+        "genre": [
+            "josei",
+            "comedy",
+            "historical",
+            "time travel"
+        ],
+        "tags": [
+            "finding-purpose",
+            "self-discovery",
+            "adult-protagonist",
+            "absurd-comedy",
+            "educational",
+            "historical-fiction",
+            "time-travel",
+            "completed"
+        ]
+    },
+    {
+        "title": "To Your Eternity",
+        "author": "Yoshitoki Oima",
+        "genre": [
+            "shounen",
+            "adventure",
+            "drama",
+            "supernatural",
+            "fantasy"
+        ],
+        "tags": [
+            "grief",
+            "loss",
+            "mortality",
+            "belonging",
+            "healing",
+            "found-family",
+            "sacrifice",
+            "coming-of-age",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "tear-jerker",
+            "episodic",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Tokyo Ghoul",
+        "author": "Sui Ishida",
+        "genre": [
+            "seinen",
+            "action",
+            "horror",
+            "psychological",
+            "drama",
+            "dark fantasy"
+        ],
+        "tags": [
+            "identity-crisis",
+            "discrimination",
+            "tragedy",
+            "moral-ambiguity",
+            "anti-hero",
+            "morally-grey-protagonist",
+            "suffering-protagonist",
+            "dark",
+            "brutal",
+            "psychological",
+            "emotional",
+            "body-horror",
+            "completed"
+        ]
+    },
+    {
+        "title": "Uzaki-chan Wants to Hang Out!",
+        "author": "Take",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy",
+            "romance"
+        ],
+        "tags": [
+            "friendship",
+            "slow-burn-romance",
+            "coming-of-age",
+            "introvert-protagonist",
+            "comedy",
+            "feel-good",
+            "school-life",
+            "college",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Vagabond",
+        "author": "Takehiko Inoue",
+        "genre": [
+            "seinen",
+            "action",
+            "drama",
+            "historical",
+            "martial arts",
+            "samurai"
+        ],
+        "tags": [
+            "self-discovery",
+            "redemption",
+            "suffering",
+            "philosophy-of-violence",
+            "anti-war",
+            "morally-grey-protagonist",
+            "suffering-protagonist",
+            "philosophical",
+            "dark",
+            "emotional",
+            "beautiful-artwork",
+            "historical-fiction",
+            "sword-fight",
+            "hiatus"
+        ]
+    },
+    {
+        "title": "Vinland Saga",
+        "author": "Makoto Yukimura",
+        "genre": [
+            "seinen",
+            "action",
+            "adventure",
+            "drama",
+            "historical"
+        ],
+        "tags": [
+            "war",
+            "revenge",
+            "redemption",
+            "pacifism",
+            "anti-war",
+            "cycle-of-violence",
+            "morally-grey-protagonist",
+            "suffering-protagonist",
+            "dark",
+            "brutal",
+            "emotional",
+            "philosophical",
+            "bittersweet",
+            "historical-fiction",
+            "completed"
+        ]
+    },
+    {
+        "title": "Wakako-zake",
+        "author": "Chie Shinohara",
+        "genre": [
+            "josei",
+            "slice of life",
+            "gourmet",
+            "work life"
+        ],
+        "tags": [
+            "loneliness",
+            "self-discovery",
+            "adult-life",
+            "adult-protagonist",
+            "introvert-protagonist",
+            "meditative",
+            "iyashikei",
+            "bittersweet",
+            "food",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Witch Hat Atelier",
+        "author": "Kamome Shirahama",
+        "genre": [
+            "shounen",
+            "adventure",
+            "fantasy",
+            "magic",
+            "drama"
+        ],
+        "tags": [
+            "finding-purpose",
+            "coming-of-age",
+            "belonging",
+            "friendship",
+            "underdog-protagonist",
+            "beautiful-artwork",
+            "atmospheric",
+            "world-building",
+            "magic",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Wolf Children",
+        "author": "Mamoru Hosoda",
+        "genre": [
+            "shounen",
+            "drama",
+            "fantasy",
+            "slice of life"
+        ],
+        "tags": [
+            "motherhood",
+            "coming-of-age",
+            "grief",
+            "loss",
+            "belonging",
+            "family-bond",
+            "self-discovery",
+            "child-protagonist",
+            "emotional",
+            "bittersweet",
+            "tear-jerker",
+            "rural",
+            "completed"
+        ]
+    },
+    {
+        "title": "World Trigger",
+        "author": "Daisuke Ashihara",
+        "genre": [
+            "shounen",
+            "action",
+            "sci fi",
+            "military"
+        ],
+        "tags": [
+            "teamwork",
+            "strategy",
+            "coming-of-age",
+            "rivalry",
+            "found-family",
+            "underdog-protagonist",
+            "action-heavy",
+            "world-building",
+            "power-system",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Wotakoi: Love is Hard for Otaku",
+        "author": "Fujita",
+        "genre": [
+            "josei",
+            "romance",
+            "comedy",
+            "slice of life"
+        ],
+        "tags": [
+            "found-family",
+            "adult-life",
+            "slow-burn-romance",
+            "belonging",
+            "friendship",
+            "introvert-protagonist",
+            "feel-good",
+            "wholesome",
+            "comedy",
+            "heartwarming",
+            "otaku-culture",
+            "workplace",
+            "completed"
+        ]
+    },
+    {
+        "title": "Yotsuba&!",
+        "author": "Kiyohiko Azuma",
+        "genre": [
+            "seinen",
+            "comedy",
+            "slice of life"
+        ],
+        "tags": [
+            "childhood-wonder",
+            "family-bond",
+            "child-protagonist",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "no-conflict",
+            "daily-life",
+            "ongoing"
+        ]
+    },
+    {
+        "title": "Your Lie in April",
+        "author": "Naoshi Arakawa",
+        "genre": [
+            "shounen",
+            "drama",
+            "romance",
+            "music",
+            "tragedy"
+        ],
+        "tags": [
+            "grief",
+            "terminal-illness",
+            "healing",
+            "coming-of-age",
+            "trauma",
+            "loss",
+            "suffering-protagonist",
+            "emotional",
+            "bittersweet",
+            "tear-jerker",
+            "beautiful",
+            "music",
+            "classical-music",
+            "completed"
+        ]
+    },
+    {
+        "title": "Yu Yu Hakusho",
+        "author": "Yoshihiro Togashi",
+        "genre": [
+            "shounen",
+            "action",
+            "supernatural",
+            "adventure"
+        ],
+        "tags": [
+            "friendship",
+            "found-family",
+            "rivalry",
+            "redemption",
+            "coming-of-age",
+            "anti-hero",
+            "cool-protagonist",
+            "action-heavy",
+            "hopeful",
+            "power-system",
+            "tournament",
+            "completed"
+        ]
+    },
+    {
+        "title": "Yuru Camp",
+        "author": "Afro",
+        "genre": [
+            "seinen",
+            "slice of life",
+            "comedy"
+        ],
+        "tags": [
+            "friendship",
+            "nature-connection",
+            "self-discovery",
+            "introvert-protagonist",
+            "heartwarming",
+            "feel-good",
+            "iyashikei",
+            "meditative",
+            "outdoor",
+            "daily-life",
+            "educational"
+        ]
+    },
+    {
+        "title": "kana",
+        "author": "chan",
+        "genre": [
+            "shounen",
+            "shoujo",
+            "seinen",
+            "josei"
+        ],
+        "tags": [
+            "jojo",
+            "bizare"
         ]
     }
 ]

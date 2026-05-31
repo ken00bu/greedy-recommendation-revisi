@@ -24,7 +24,7 @@ function buildPreferenceWithWeight(manga: Manga, depth: number = 0): Record<stri
 }
 
 // semakin tinggi nilainya, semakin akurat rekomendasinya
-function getBestManga(mangaWithScoreList: (Manga & { score: number })[]){
+function getBestManga(mangaWithScoreList: (Manga & { score: number, matched: string[] })[]){
     return mangaWithScoreList.reduce((best, current) => 
         current.score > best.score ? current : best
     )
@@ -53,11 +53,11 @@ export function greedyRecommendation(selectedManga: Manga, mangas: Manga[], limi
 
     // Weight untuk initial harus gamblang bobotnya dari expand agar tidak terlalu halu
     let preferenceWeights = buildPreferenceWithWeight(selectedManga, INITIAL_PREFERENCE_WEIGHT)
-    const recommendation: (Manga & { score: number })[] = []
+    const recommendation: (Manga & { score: number, matched: string[] })[] = []
     let i = 0
     while(i < limit){
-        let bestManga: (Manga & { score: number }) 
-        const mangaWithScoreList: (Manga & { score: number })[] = []
+        let bestManga: (Manga & { score: number, matched: string[] }) 
+        const mangaWithScoreList: (Manga & { score: number, matched: string[] })[] = []
         for(const manga of mangas){
             //guard jika manga adalah selectedManga atau manga sudah diambil maka skip
             if(manga.title === selectedManga.title || recommendation.some(r => r.title === manga.title)) continue
@@ -67,12 +67,17 @@ export function greedyRecommendation(selectedManga: Manga, mangas: Manga[], limi
             
             // hitung score manga saat ini
             let score = 0
+            const matchedItems: string[] = [] 
             for(const item of preferences){
-                score += preferenceWeights[item] ?? 0
+                const w = preferenceWeights[item] ?? 0
+                score += w
+                if(w > 0) matchedItems.push(item)
+                
             }
             mangaWithScoreList.push({
                 ...manga,
-                score
+                score,
+                matched: matchedItems 
             })
         }
 

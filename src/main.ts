@@ -6,6 +6,7 @@ import { recommend } from './algorithms/actions/recommend';
 import { add } from './algorithms/actions/add';
 import { del } from './algorithms/actions/delete';
 import { input, select } from "@inquirer/prompts";
+import boxen from 'boxen';
 
 const currentFile = fileURLToPath(import.meta.url)
 const src = dirname(currentFile)
@@ -31,7 +32,7 @@ async function main(){
         );
 
         console.clear()
-        console.log('\n')
+
         const action = await select({
             message: chalk.bold('Menu Utama'),
             choices: [

@@ -24,15 +24,14 @@ function getMangasData(){
 async function main(){
     
     while(true){
-        
         // ambil data paling baru setiap kembali ke menu
         const mangas = getMangasData()
         const sortedMangas = [...mangas].sort((a, b) =>
             a.title.localeCompare(b.title)
-        );
-
+    );
+    
         console.clear()
-
+        console.log('\n')
         const action = await select({
             message: chalk.bold('Menu Utama'),
             choices: [
@@ -68,7 +67,6 @@ async function main(){
                 prefix: ''
             }
         })
-
     }
 }
 

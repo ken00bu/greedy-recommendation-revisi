@@ -33,10 +33,9 @@ export async function recommend(mangas: Manga[]){
 
     console.log(chalk.hex('#ff9f43').bold(`\nRekomendasi berdasarkan: ${selectedTitle}\n`))
     recommendation.forEach((manga, index) => {
-        const percent = Math.min(100, Math.round(manga.score * 10))
         console.log(
             chalk.bold(`  ${chalk.dim('#' + (index + 1))} ${manga.title}`) +
-            chalk.dim(` — skor: ${manga.score.toFixed(2)}`)
+            chalk.dim(` — skor: ${manga.score.toFixed(2)} `)
         )
     })
 }

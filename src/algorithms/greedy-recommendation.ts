@@ -33,13 +33,8 @@ function getBestManga(mangaWithScoreList: (Manga & { score: number })[]){
 // expand preference dengan weight yang jauh lebih rendah dari initial
 function mergePreference(oldPreferences: Record<string, number>, manga: Manga, index: number){
 
-    const filteredGenre = manga.genre.filter((genre)=>{
-        if(!oldPreferences.hasOwnProperty(genre))true
-    })
-
-    const filteredTags = manga.tags.filter((tag)=>{
-        if(!oldPreferences.hasOwnProperty(tag))true
-    })
+    const filteredGenre = manga.genre.filter((genre)=>!oldPreferences.hasOwnProperty(genre))
+    const filteredTags = manga.tags.filter((tag)=>!oldPreferences.hasOwnProperty(tag))
 
     const newPreferences = {
         author: manga.author,

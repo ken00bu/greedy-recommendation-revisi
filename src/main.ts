@@ -26,6 +26,9 @@ async function main(){
         
         // ambil data paling baru setiap kembali ke menu
         const mangas = getMangasData()
+        const sortedMangas = [...mangas].sort((a, b) =>
+            a.title.localeCompare(b.title)
+        );
 
         console.clear()
         console.log('\n')
@@ -41,15 +44,15 @@ async function main(){
 
         switch(action){
             case('recommend'): {
-                await recommend(mangas)
+                await recommend(sortedMangas)
                 break
             }
             case('add'): {
-                await add(mangas)
+                await add(sortedMangas)
                 break
             }
             case('delete'): {
-                await del(mangas)
+                await del(sortedMangas)
                 break
             }
             case('exit'): {

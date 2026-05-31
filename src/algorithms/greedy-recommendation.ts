@@ -31,10 +31,26 @@ function getBestManga(mangaWithScoreList: (Manga & { score: number })[]){
 }
 
 // expand preference dengan weight yang jauh lebih rendah dari initial
-function mergePreference(preferenceWeight: Record<string, number>, manga: Manga, index: number){
+function mergePreference(oldPreferences: Record<string, number>, manga: Manga, index: number){
+
+    const filteredGenre = manga.genre.filter((genre)=>{
+        if(!oldPreferences.hasOwnProperty(genre))true
+    })
+
+    const filteredTags = manga.tags.filter((tag)=>{
+        if(!oldPreferences.hasOwnProperty(tag))true
+    })
+
+    const newPreferences = {
+        author: manga.author,
+        genre: filteredGenre,
+        tags: filteredTags
+    }
+
+
     return {
-        ...buildPreferenceWithWeight(manga, BASE_PREFERENCE_WEIGHT + index),
-        ...preferenceWeight
+        ...buildPreferenceWithWeight(newPreferences as Manga, BASE_PREFERENCE_WEIGHT + index),
+        ...oldPreferences
     }
 }
 
@@ -49,7 +65,7 @@ export function greedyRecommendation(selectedManga: Manga, mangas: Manga[], limi
         const mangaWithScoreList: (Manga & { score: number })[] = []
         for(const manga of mangas){
             //guard jika manga adalah selectedManga atau manga sudah diambil maka skip
-            if(manga.id === selectedManga.id || recommendation.some(r => r.id === manga.id)) continue
+            if(manga.title === selectedManga.title || recommendation.some(r => r.title === manga.title)) continue
 
             // current tag + genre + author
             const preferences = buildPreference(manga)

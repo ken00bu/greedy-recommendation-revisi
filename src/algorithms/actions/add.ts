@@ -56,7 +56,6 @@ export async function add(mangas: Manga[]){
         const tags = tagsInput.split(',').map(t => t.trim()).filter(t => t !== "")
 
         const newManga: Manga = {
-            id: nanoid(),
             title: title,
             author: author,
             genre: selectedGenres as Genre[], 
@@ -68,6 +67,7 @@ export async function add(mangas: Manga[]){
             const pathToJson = join(src, '..', '..', 'data', 'mangas.json'); 
             writeFileSync(pathToJson, JSON.stringify(mangas, null, 4), 'utf-8');
             console.log(`\n> Data manga "${newManga.title}" berhasil disimpan!`);
+            return
         } catch (error) {
             console.error("\n> Gagal menyimpan data:", error);
         }
